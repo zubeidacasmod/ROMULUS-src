@@ -1,10 +1,10 @@
 <?php
 $yolo = "Conected to database.";
 
-mysql_connect("127.3.143.1:3306","admint2HhvWi","2iAB21BlvIii") or die (mysql_error());
+mysql_connect("","","") or die (mysql_error());
 echo $yolo;
 
-mysql_select_db("romulus") or die ("no database");
+mysql_select_db("") or die ("");
 echo "Connected to database romulus";
 
 $fo = $_POST['selectedfo'];
