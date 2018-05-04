@@ -1,0 +1,1565 @@
+This is pdfTeX, Version 3.1415926-1.40.10 (MiKTeX 2.8) (preloaded format=pdflatex 2012.6.12)  7 NOV 2012 11:16
+entering extended mode
+**C:/xampp/htdocs/ROMULUS/Axiomitisation/dl/DOLCE/DOLCE-RL.tex
+(C:/xampp/htdocs/ROMULUS/Axiomitisation/dl/DOLCE/DOLCE-RL.tex
+LaTeX2e <2009/09/24>
+Babel <v3.8l> and hyphenation patterns for english, dumylang, nohyphenation, ge
+rman, ngerman, german-x-2009-06-19, ngerman-x-2009-06-19, french, loaded.
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\base\article.cls"
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\base\size10.clo"
+File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(C:\xampp\htdocs\ROMULUS\Axiomitisation\dl\DOLCE\DOLCE-RL.aux)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 14.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 14.
+ [1
+
+{C:/ProgramData/MiKTeX/2.8/pdftex/config/pdftex.map}] [2] [3]
+! Missing $ inserted.
+<inserted text> 
+                $
+l.228 \subsubsection*{spatial-location_q}
+                                         
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.228 \subsubsection*{spatial-location_q}
+                                         
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.246 \subsubsection*{temporal-location_q}
+                                          
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.246 \subsubsection*{temporal-location_q}
+                                          
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+[4]
+! You can't use `macro parameter character #' in horizontal mode.
+l.282 ...www.loa-cnr.it/ontologies/DOLCE-Lite.owl#
+                                                  abstract-location>~\ensure...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.282 ...www.loa-cnr.it/ontologies/DOLCE-Lite.owl#
+                                                  abstract-location-of>\ensu...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+Overfull \hbox (39.1766pt too wide) in paragraph at lines 282--283
+[]\OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontologies/DOLCE-Lite.owlabstract-loca
+tion> $\OMS/cmsy/m/n/10 $ \OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontologies/DO
+LCE-Lite.owlabstract-
+ []
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.292 ...www.loa-cnr.it/ontologies/DOLCE-Lite.owl#
+                                                  abstract-location>~\ensure...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.292 ...www.loa-cnr.it/ontologies/DOLCE-Lite.owl#
+                                                  abstract-location-of>\ensu...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+Overfull \hbox (39.1766pt too wide) in paragraph at lines 292--293
+[]\OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontologies/DOLCE-Lite.owlabstract-loca
+tion> $\OMS/cmsy/m/n/10 $ \OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontologies/DO
+LCE-Lite.owlabstract-
+ []
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.302 ...www.loa-cnr.it/ontologies/DOLCE-Lite.owl#
+                                                  atomic-part>~\ensuremath{\...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.302 ...www.loa-cnr.it/ontologies/DOLCE-Lite.owl#
+                                                  atomic-part-of>\ensuremath...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+Overfull \hbox (10.42656pt too wide) in paragraph at lines 302--303
+[]\OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontologies/DOLCE-Lite.owlatomic-part> 
+$\OMS/cmsy/m/n/10 $ \OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontologies/DOLCE-Li
+te.owlatomic-
+ []
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.312 ...www.loa-cnr.it/ontologies/DOLCE-Lite.owl#
+                                                  atomic-part>~\ensuremath{\...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.312 ...www.loa-cnr.it/ontologies/DOLCE-Lite.owl#
+                                                  atomic-part-of>\ensuremath...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+Overfull \hbox (10.42656pt too wide) in paragraph at lines 312--313
+[]\OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontologies/DOLCE-Lite.owlatomic-part> 
+$\OMS/cmsy/m/n/10 $ \OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontologies/DOLCE-Li
+te.owlatomic-
+ []
+
+[5]
+! You can't use `macro parameter character #' in horizontal mode.
+l.322 ...www.loa-cnr.it/ontologies/DOLCE-Lite.owl#
+                                                  boundary>~\ensuremath{\equ...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.322 ...www.loa-cnr.it/ontologies/DOLCE-Lite.owl#
+                                                  boundary-of>\ensuremath{^-}
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+Overfull \hbox (13.2322pt too wide) in paragraph at lines 322--323
+[]\OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontologies/DOLCE-Lite.owlboundary> $\O
+MS/cmsy/m/n/10 $ \OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontologies/DOLCE-Lite.
+owlboundary-
+ []
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.332 ...www.loa-cnr.it/ontologies/DOLCE-Lite.owl#
+                                                  boundary>~\ensuremath{\equ...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.332 ...www.loa-cnr.it/ontologies/DOLCE-Lite.owl#
+                                                  boundary-of>\ensuremath{^-}
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+Overfull \hbox (13.2322pt too wide) in paragraph at lines 332--333
+[]\OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontologies/DOLCE-Lite.owlboundary> $\O
+MS/cmsy/m/n/10 $ \OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontologies/DOLCE-Lite.
+owlboundary-
+ []
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.342 ...www.loa-cnr.it/ontologies/DOLCE-Lite.owl#
+                                                  constant-participant-in>~\...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.342 ...www.loa-cnr.it/ontologies/DOLCE-Lite.owl#
+                                                  constant-participant>\ensu...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+Overfull \hbox (66.92665pt too wide) in paragraph at lines 342--343
+[]\OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontologies/DOLCE-Lite.owlconstant-part
+icipant-in> $\OMS/cmsy/m/n/10 $ \OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontolog
+ies/DOLCE-Lite.owlconstant-
+ []
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.352 ...www.loa-cnr.it/ontologies/DOLCE-Lite.owl#
+                                                  constant-participant-in>~\...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.352 ...www.loa-cnr.it/ontologies/DOLCE-Lite.owl#
+                                                  constant-participant>\ensu...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+Overfull \hbox (66.92665pt too wide) in paragraph at lines 352--353
+[]\OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontologies/DOLCE-Lite.owlconstant-part
+icipant-in> $\OMS/cmsy/m/n/10 $ \OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontolog
+ies/DOLCE-Lite.owlconstant-
+ []
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.362 ...www.loa-cnr.it/ontologies/DOLCE-Lite.owl#
+                                                  exact-location>~\ensuremat...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.362 ...www.loa-cnr.it/ontologies/DOLCE-Lite.owl#
+                                                  exact-location-of>\ensurem...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+Overfull \hbox (14.00989pt too wide) in paragraph at lines 362--363
+[]\OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontologies/DOLCE-Lite.owlexact-locatio
+n> $\OMS/cmsy/m/n/10 $ \OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontologies/DOLCE
+-Lite.owlexact-
+ []
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.372 ...www.loa-cnr.it/ontologies/DOLCE-Lite.owl#
+                                                  exact-location>~\ensuremat...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.372 ...www.loa-cnr.it/ontologies/DOLCE-Lite.owl#
+                                                  exact-location-of>\ensurem...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+Overfull \hbox (14.00989pt too wide) in paragraph at lines 372--373
+[]\OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontologies/DOLCE-Lite.owlexact-locatio
+n> $\OMS/cmsy/m/n/10 $ \OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontologies/DOLCE
+-Lite.owlexact-
+ []
+
+[6]
+! You can't use `macro parameter character #' in horizontal mode.
+l.382 ...www.loa-cnr.it/ontologies/DOLCE-Lite.owl#
+                                                  generic-constituent-of>~\e...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.382 ...www.loa-cnr.it/ontologies/DOLCE-Lite.owl#
+                                                  generic-constituent>\ensur...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+Overfull \hbox (54.39879pt too wide) in paragraph at lines 382--383
+[]\OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontologies/DOLCE-Lite.owlgeneric-const
+ituent-of> $\OMS/cmsy/m/n/10 $ \OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontologi
+es/DOLCE-Lite.owlgeneric-
+ []
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.392 ...www.loa-cnr.it/ontologies/DOLCE-Lite.owl#
+                                                  generic-constituent-of>~\e...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.392 ...www.loa-cnr.it/ontologies/DOLCE-Lite.owl#
+                                                  generic-constituent>\ensur...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+Overfull \hbox (54.39879pt too wide) in paragraph at lines 392--393
+[]\OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontologies/DOLCE-Lite.owlgeneric-const
+ituent-of> $\OMS/cmsy/m/n/10 $ \OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontologi
+es/DOLCE-Lite.owlgeneric-
+ []
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.402 ...www.loa-cnr.it/ontologies/DOLCE-Lite.owl#
+                                                  generic-dependent>~\ensure...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.402 ...www.loa-cnr.it/ontologies/DOLCE-Lite.owl#
+                                                  generically-dependent-on>\...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+Overfull \hbox (55.17659pt too wide) in paragraph at lines 402--403
+[]\OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontologies/DOLCE-Lite.owlgeneric-depen
+dent> $\OMS/cmsy/m/n/10 $ \OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontologies/DO
+LCE-Lite.owlgenerically-
+ []
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.412 ...www.loa-cnr.it/ontologies/DOLCE-Lite.owl#
+                                                  generic-location-of>~\ensu...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.412 ...www.loa-cnr.it/ontologies/DOLCE-Lite.owl#
+                                                  generic-location>\ensurema...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+Overfull \hbox (40.45435pt too wide) in paragraph at lines 412--413
+[]\OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontologies/DOLCE-Lite.owlgeneric-locat
+ion-of> $\OMS/cmsy/m/n/10 $ \OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontologies/
+DOLCE-Lite.owlgeneric-
+ []
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.422 ...www.loa-cnr.it/ontologies/DOLCE-Lite.owl#
+                                                  generic-location-of>~\ensu...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.422 ...www.loa-cnr.it/ontologies/DOLCE-Lite.owl#
+                                                  generic-location>\ensurema...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+Overfull \hbox (40.45435pt too wide) in paragraph at lines 422--423
+[]\OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontologies/DOLCE-Lite.owlgeneric-locat
+ion-of> $\OMS/cmsy/m/n/10 $ \OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontologies/
+DOLCE-Lite.owlgeneric-
+ []
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.432 ...www.loa-cnr.it/ontologies/DOLCE-Lite.owl#
+                                                  generic-dependent>~\ensure...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.432 ...www.loa-cnr.it/ontologies/DOLCE-Lite.owl#
+                                                  generically-dependent-on>\...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+Overfull \hbox (55.17659pt too wide) in paragraph at lines 432--433
+[]\OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontologies/DOLCE-Lite.owlgeneric-depen
+dent> $\OMS/cmsy/m/n/10 $ \OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontologies/DO
+LCE-Lite.owlgenerically-
+ []
+
+[7]
+! You can't use `macro parameter character #' in horizontal mode.
+l.442 ...www.loa-cnr.it/ontologies/DOLCE-Lite.owl#
+                                                  has-quale>~\ensuremath{\eq...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.442 ...www.loa-cnr.it/ontologies/DOLCE-Lite.owl#
+                                                  quale-of>\ensuremath{^-}
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.452 ...www.loa-cnr.it/ontologies/DOLCE-Lite.owl#
+                                                  inherent-in>~\ensuremath{\...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.452 ...www.loa-cnr.it/ontologies/DOLCE-Lite.owl#
+                                                  has-quality>\ensuremath{^-}
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+Overfull \hbox (33.62103pt too wide) in paragraph at lines 452--453
+[]\OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontologies/DOLCE-Lite.owlinherent-in> 
+$\OMS/cmsy/m/n/10 $ \OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontologies/DOLCE-Li
+te.owlhas-quality>$[]$ 
+ []
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.462 ...www.loa-cnr.it/ontologies/DOLCE-Lite.owl#
+                                                  t-inherent-in>~\ensuremath...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.462 ...www.loa-cnr.it/ontologies/DOLCE-Lite.owl#
+                                                  has-t-quality>\ensuremath{^-}
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.472 ...www.loa-cnr.it/ontologies/DOLCE-Lite.owl#
+                                                  host-of>~\ensuremath{\equi...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.472 ...www.loa-cnr.it/ontologies/DOLCE-Lite.owl#
+                                                  host>\ensuremath{^-}
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.482 ...www.loa-cnr.it/ontologies/DOLCE-Lite.owl#
+                                                  host-of>~\ensuremath{\equi...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.482 ...www.loa-cnr.it/ontologies/DOLCE-Lite.owl#
+                                                  host>\ensuremath{^-}
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.490 ...www.loa-cnr.it/ontologies/DOLCE-Lite.owl#
+                                                  identity-c>~\ensuremath{\e...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.490 ...www.loa-cnr.it/ontologies/DOLCE-Lite.owl#
+                                                  identity-c>\ensuremath{^-}
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+Overfull \hbox (4.84319pt too wide) in paragraph at lines 490--491
+\OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontologies/DOLCE-Lite.owlidentity-c> $\O
+MS/cmsy/m/n/10 $ \OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontologies/DOLCE-Lite.
+owlidentity-
+ []
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.498 ...www.loa-cnr.it/ontologies/DOLCE-Lite.owl#
+                                                  identity-n>~\ensuremath{\e...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.498 ...www.loa-cnr.it/ontologies/DOLCE-Lite.owl#
+                                                  identity-n>\ensuremath{^-}
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+Overfull \hbox (5.95432pt too wide) in paragraph at lines 498--499
+\OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontologies/DOLCE-Lite.owlidentity-n> $\O
+MS/cmsy/m/n/10 $ \OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontologies/DOLCE-Lite.
+owlidentity-
+ []
+
+[8]
+! You can't use `macro parameter character #' in horizontal mode.
+l.506 ...www.loa-cnr.it/ontologies/DOLCE-Lite.owl#
+                                                  immediate-relation-i>~\ens...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.506 ...www.loa-cnr.it/ontologies/DOLCE-Lite.owl#
+                                                  immediate-relation>\ensure...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+Overfull \hbox (63.76pt too wide) in paragraph at lines 506--507
+\OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontologies/DOLCE-Lite.owlimmediate-relat
+ion-i> $\OMS/cmsy/m/n/10 $ \OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontologies/D
+OLCE-Lite.owlimmediate-
+ []
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.514 ...www.loa-cnr.it/ontologies/DOLCE-Lite.owl#
+                                                  immediate-relation-i>~\ens...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.514 ...www.loa-cnr.it/ontologies/DOLCE-Lite.owl#
+                                                  immediate-relation>\ensure...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+Overfull \hbox (63.76pt too wide) in paragraph at lines 514--515
+\OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontologies/DOLCE-Lite.owlimmediate-relat
+ion-i> $\OMS/cmsy/m/n/10 $ \OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontologies/D
+OLCE-Lite.owlimmediate-
+ []
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.524 ...www.loa-cnr.it/ontologies/DOLCE-Lite.owl#
+                                                  inherent-in>~\ensuremath{\...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.524 ...www.loa-cnr.it/ontologies/DOLCE-Lite.owl#
+                                                  has-quality>\ensuremath{^-}
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+Overfull \hbox (33.62103pt too wide) in paragraph at lines 524--525
+[]\OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontologies/DOLCE-Lite.owlinherent-in> 
+$\OMS/cmsy/m/n/10 $ \OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontologies/DOLCE-Li
+te.owlhas-quality>$[]$ 
+ []
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.534 ...www.loa-cnr.it/ontologies/DOLCE-Lite.owl#
+                                                  life>~\ensuremath{\equiv}~...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.534 ...www.loa-cnr.it/ontologies/DOLCE-Lite.owl#
+                                                  life-of>\ensuremath{^-}
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.544 ...www.loa-cnr.it/ontologies/DOLCE-Lite.owl#
+                                                  life>~\ensuremath{\equiv}~...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.544 ...www.loa-cnr.it/ontologies/DOLCE-Lite.owl#
+                                                  life-of>\ensuremath{^-}
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.552 ...www.loa-cnr.it/ontologies/DOLCE-Lite.owl#
+                                                  mediated-relation-i>~\ensu...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.552 ...www.loa-cnr.it/ontologies/DOLCE-Lite.owl#
+                                                  mediated-relation>\ensurem...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+Overfull \hbox (52.64885pt too wide) in paragraph at lines 552--553
+\OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontologies/DOLCE-Lite.owlmediated-relati
+on-i> $\OMS/cmsy/m/n/10 $ \OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontologies/DO
+LCE-Lite.owlmediated-
+ []
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.560 ...www.loa-cnr.it/ontologies/DOLCE-Lite.owl#
+                                                  mediated-relation-i>~\ensu...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.560 ...www.loa-cnr.it/ontologies/DOLCE-Lite.owl#
+                                                  mediated-relation>\ensurem...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+Overfull \hbox (52.64885pt too wide) in paragraph at lines 560--561
+\OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontologies/DOLCE-Lite.owlmediated-relati
+on-i> $\OMS/cmsy/m/n/10 $ \OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontologies/DO
+LCE-Lite.owlmediated-
+ []
+
+[9]
+! You can't use `macro parameter character #' in horizontal mode.
+l.570 ...www.loa-cnr.it/ontologies/DOLCE-Lite.owl#
+                                                  mereologically-coincides>~...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.570 ...www.loa-cnr.it/ontologies/DOLCE-Lite.owl#
+                                                  mereologically-coincides>\...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.580 ...www.loa-cnr.it/ontologies/DOLCE-Lite.owl#
+                                                  overlaps>~\ensuremath{\equ...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.580 ...www.loa-cnr.it/ontologies/DOLCE-Lite.owl#
+                                                  overlaps>\ensuremath{^-}
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+Overfull \hbox (8.7043pt too wide) in paragraph at lines 580--581
+[]\OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontologies/DOLCE-Lite.owloverlaps> $\O
+MS/cmsy/m/n/10 $ \OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontologies/DOLCE-Lite.
+owloverlaps>$[]$ 
+ []
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.604 ...www.loa-cnr.it/ontologies/DOLCE-Lite.owl#
+                                                  participant>~\ensuremath{\...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.604 ...www.loa-cnr.it/ontologies/DOLCE-Lite.owl#
+                                                  participant-in>\ensuremath...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+Overfull \hbox (26.00993pt too wide) in paragraph at lines 604--605
+[]\OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontologies/DOLCE-Lite.owlparticipant> 
+$\OMS/cmsy/m/n/10 $ \OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontologies/DOLCE-Li
+te.owlparticipant-
+ []
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.614 ...www.loa-cnr.it/ontologies/DOLCE-Lite.owl#
+                                                  participant>~\ensuremath{\...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.614 ...www.loa-cnr.it/ontologies/DOLCE-Lite.owl#
+                                                  participant-in>\ensuremath...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+Overfull \hbox (26.00993pt too wide) in paragraph at lines 614--615
+[]\OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontologies/DOLCE-Lite.owlparticipant> 
+$\OMS/cmsy/m/n/10 $ \OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontologies/DOLCE-Li
+te.owlparticipant-
+ []
+
+[10]
+! You can't use `macro parameter character #' in horizontal mode.
+l.624 ...www.loa-cnr.it/ontologies/DOLCE-Lite.owl#
+                                                  partly-compresent>~\ensure...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.624 ...www.loa-cnr.it/ontologies/DOLCE-Lite.owl#
+                                                  partly-compresent>\ensurem...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+Overfull \hbox (35.25993pt too wide) in paragraph at lines 624--625
+[]\OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontologies/DOLCE-Lite.owlpartly-compre
+sent> $\OMS/cmsy/m/n/10 $ \OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontologies/DO
+LCE-Lite.owlpartly-
+ []
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.634 ...www.loa-cnr.it/ontologies/DOLCE-Lite.owl#
+                                                  physical-location>~\ensure...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.634 ...www.loa-cnr.it/ontologies/DOLCE-Lite.owl#
+                                                  physical-location-of>\ensu...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+Overfull \hbox (38.00995pt too wide) in paragraph at lines 634--635
+[]\OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontologies/DOLCE-Lite.owlphysical-loca
+tion> $\OMS/cmsy/m/n/10 $ \OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontologies/DO
+LCE-Lite.owlphysical-
+ []
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.644 ...www.loa-cnr.it/ontologies/DOLCE-Lite.owl#
+                                                  physical-location>~\ensure...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.644 ...www.loa-cnr.it/ontologies/DOLCE-Lite.owl#
+                                                  physical-location-of>\ensu...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+Overfull \hbox (38.00995pt too wide) in paragraph at lines 644--645
+[]\OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontologies/DOLCE-Lite.owlphysical-loca
+tion> $\OMS/cmsy/m/n/10 $ \OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontologies/DO
+LCE-Lite.owlphysical-
+ []
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.666 ...www.loa-cnr.it/ontologies/DOLCE-Lite.owl#
+                                                  q-location>~\ensuremath{\e...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.666 ...www.loa-cnr.it/ontologies/DOLCE-Lite.owl#
+                                                  q-location-of>\ensuremath{^-}
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+Overfull \hbox (16.5099pt too wide) in paragraph at lines 666--667
+[]\OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontologies/DOLCE-Lite.owlq-location> $
+\OMS/cmsy/m/n/10 $ \OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontologies/DOLCE-Lit
+e.owlq-location-
+ []
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.676 ...www.loa-cnr.it/ontologies/DOLCE-Lite.owl#
+                                                  q-location>~\ensuremath{\e...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.676 ...www.loa-cnr.it/ontologies/DOLCE-Lite.owl#
+                                                  q-location-of>\ensuremath{^-}
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+Overfull \hbox (16.5099pt too wide) in paragraph at lines 676--677
+[]\OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontologies/DOLCE-Lite.owlq-location> $
+\OMS/cmsy/m/n/10 $ \OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontologies/DOLCE-Lit
+e.owlq-location-
+ []
+
+[11]
+! You can't use `macro parameter character #' in horizontal mode.
+l.686 ...www.loa-cnr.it/ontologies/DOLCE-Lite.owl#
+                                                  time-of-q-presence-of>~\en...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.686 ...www.loa-cnr.it/ontologies/DOLCE-Lite.owl#
+                                                  q-present-at>\ensuremath{^-}
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+Overfull \hbox (26.03761pt too wide) in paragraph at lines 686--687
+[]\OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontologies/DOLCE-Lite.owltime-of-q-pre
+sence-of> $\OMS/cmsy/m/n/10 $ \OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontologie
+s/DOLCE-Lite.owlq-
+ []
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.696 ...www.loa-cnr.it/ontologies/DOLCE-Lite.owl#
+                                                  has-quale>~\ensuremath{\eq...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.696 ...www.loa-cnr.it/ontologies/DOLCE-Lite.owl#
+                                                  quale-of>\ensuremath{^-}
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.706 ...www.loa-cnr.it/ontologies/DOLCE-Lite.owl#
+                                                  r-location>~\ensuremath{\e...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.706 ...www.loa-cnr.it/ontologies/DOLCE-Lite.owl#
+                                                  r-location-of>\ensuremath{^-}
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+Overfull \hbox (13.78767pt too wide) in paragraph at lines 706--707
+[]\OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontologies/DOLCE-Lite.owlr-location> $
+\OMS/cmsy/m/n/10 $ \OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontologies/DOLCE-Lit
+e.owlr-location-
+ []
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.716 ...www.loa-cnr.it/ontologies/DOLCE-Lite.owl#
+                                                  r-location>~\ensuremath{\e...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.716 ...www.loa-cnr.it/ontologies/DOLCE-Lite.owl#
+                                                  r-location-of>\ensuremath{^-}
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+Overfull \hbox (13.78767pt too wide) in paragraph at lines 716--717
+[]\OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontologies/DOLCE-Lite.owlr-location> $
+\OMS/cmsy/m/n/10 $ \OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontologies/DOLCE-Lit
+e.owlr-location-
+ []
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.726 ...www.loa-cnr.it/ontologies/DOLCE-Lite.owl#
+                                                  sibling-part>~\ensuremath{...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.726 ...www.loa-cnr.it/ontologies/DOLCE-Lite.owl#
+                                                  sibling-part>\ensuremath{^-}
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+Overfull \hbox (8.31544pt too wide) in paragraph at lines 726--727
+[]\OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontologies/DOLCE-Lite.owlsibling-part>
+ $\OMS/cmsy/m/n/10 $ \OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontologies/DOLCE-L
+ite.owlsibling-
+ []
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.736 ...www.loa-cnr.it/ontologies/DOLCE-Lite.owl#
+                                                  spatio-temporal-presence-o...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.736 ...www.loa-cnr.it/ontologies/DOLCE-Lite.owl#
+                                                  spatio-temporally-present-...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+Overfull \hbox (11.81541pt too wide) in paragraph at lines 736--737
+[]\OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontologies/DOLCE-Lite.owlspatio-tempor
+al-presence-of> $\OMS/cmsy/m/n/10 $ \OT1/cmr/m/n/10 <http://www.loa-cnr.it/ont
+ologies/DOLCE-
+ []
+
+[12]
+! You can't use `macro parameter character #' in horizontal mode.
+l.746 ...www.loa-cnr.it/ontologies/DOLCE-Lite.owl#
+                                                  spatio-temporal-presence-o...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.746 ...www.loa-cnr.it/ontologies/DOLCE-Lite.owl#
+                                                  spatio-temporally-present-...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+Overfull \hbox (11.81541pt too wide) in paragraph at lines 746--747
+[]\OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontologies/DOLCE-Lite.owlspatio-tempor
+al-presence-of> $\OMS/cmsy/m/n/10 $ \OT1/cmr/m/n/10 <http://www.loa-cnr.it/ont
+ologies/DOLCE-
+ []
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.756 ...www.loa-cnr.it/ontologies/DOLCE-Lite.owl#
+                                                  specific-constant-constitu...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.756 ...www.loa-cnr.it/ontologies/DOLCE-Lite.owl#
+                                                  specific-constant-constitu...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+Overfull \hbox (15.42651pt too wide) in paragraph at lines 756--757
+[]\OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontologies/DOLCE-Lite.owlspecific-cons
+tant-constituent> $\OMS/cmsy/m/n/10 $ \OT1/cmr/m/n/10 <http://www.loa-cnr.it/o
+ntologies/DOLCE-
+ []
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.766 ...www.loa-cnr.it/ontologies/DOLCE-Lite.owl#
+                                                  specific-constant-constitu...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.766 ...www.loa-cnr.it/ontologies/DOLCE-Lite.owl#
+                                                  specific-constant-constitu...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+Overfull \hbox (15.42651pt too wide) in paragraph at lines 766--767
+[]\OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontologies/DOLCE-Lite.owlspecific-cons
+tant-constituent> $\OMS/cmsy/m/n/10 $ \OT1/cmr/m/n/10 <http://www.loa-cnr.it/o
+ntologies/DOLCE-
+ []
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.776 ...www.loa-cnr.it/ontologies/DOLCE-Lite.owl#
+                                                  specific-constant-dependen...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.776 ...www.loa-cnr.it/ontologies/DOLCE-Lite.owl#
+                                                  specifically-constantly-de...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+Overfull \hbox (11.75984pt too wide) in paragraph at lines 776--777
+[]\OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontologies/DOLCE-Lite.owlspecific-cons
+tant-dependent> $\OMS/cmsy/m/n/10 $ \OT1/cmr/m/n/10 <http://www.loa-cnr.it/ont
+ologies/DOLCE-
+ []
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.786 ...www.loa-cnr.it/ontologies/DOLCE-Lite.owl#
+                                                  specific-constant-dependen...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.786 ...www.loa-cnr.it/ontologies/DOLCE-Lite.owl#
+                                                  specifically-constantly-de...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+Overfull \hbox (11.75984pt too wide) in paragraph at lines 786--787
+[]\OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontologies/DOLCE-Lite.owlspecific-cons
+tant-dependent> $\OMS/cmsy/m/n/10 $ \OT1/cmr/m/n/10 <http://www.loa-cnr.it/ont
+ologies/DOLCE-
+ []
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.796 ...www.loa-cnr.it/ontologies/DOLCE-Lite.owl#
+                                                  strong-connection>~\ensure...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.796 ...www.loa-cnr.it/ontologies/DOLCE-Lite.owl#
+                                                  strong-connection>\ensurem...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+Overfull \hbox (34.45436pt too wide) in paragraph at lines 796--797
+[]\OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontologies/DOLCE-Lite.owlstrong-connec
+tion> $\OMS/cmsy/m/n/10 $ \OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontologies/DO
+LCE-Lite.owlstrong-
+ []
+
+[13]
+! You can't use `macro parameter character #' in horizontal mode.
+l.806 ...www.loa-cnr.it/ontologies/DOLCE-Lite.owl#
+                                                  t-inherent-in>~\ensuremath...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.806 ...www.loa-cnr.it/ontologies/DOLCE-Lite.owl#
+                                                  has-t-quality>\ensuremath{^-}
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.816 ...www.loa-cnr.it/ontologies/DOLCE-Lite.owl#
+                                                  temporary-atomic-part-of>~...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.816 ...www.loa-cnr.it/ontologies/DOLCE-Lite.owl#
+                                                  temporary-atomic-part>\ens...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+Overfull \hbox (3.12102pt too wide) in paragraph at lines 816--817
+[]\OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontologies/DOLCE-Lite.owltemporary-ato
+mic-part-of> $\OMS/cmsy/m/n/10 $ \OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontolo
+gies/DOLCE-
+ []
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.826 ...www.loa-cnr.it/ontologies/DOLCE-Lite.owl#
+                                                  temporary-atomic-part-of>~...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.826 ...www.loa-cnr.it/ontologies/DOLCE-Lite.owl#
+                                                  temporary-atomic-part>\ens...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+Overfull \hbox (3.12102pt too wide) in paragraph at lines 826--827
+[]\OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontologies/DOLCE-Lite.owltemporary-ato
+mic-part-of> $\OMS/cmsy/m/n/10 $ \OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontolo
+gies/DOLCE-
+ []
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.838 ...www.loa-cnr.it/ontologies/DOLCE-Lite.owl#
+                                                  temporary-part-of>~\ensure...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.838 ...www.loa-cnr.it/ontologies/DOLCE-Lite.owl#
+                                                  temporary-part>\ensuremath...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+Overfull \hbox (54.14891pt too wide) in paragraph at lines 838--839
+[]\OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontologies/DOLCE-Lite.owltemporary-par
+t-of> $\OMS/cmsy/m/n/10 $ \OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontologies/DO
+LCE-Lite.owltemporary-
+ []
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.850 ...www.loa-cnr.it/ontologies/DOLCE-Lite.owl#
+                                                  temporary-part-of>~\ensure...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.850 ...www.loa-cnr.it/ontologies/DOLCE-Lite.owl#
+                                                  temporary-part>\ensuremath...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+Overfull \hbox (54.14891pt too wide) in paragraph at lines 850--851
+[]\OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontologies/DOLCE-Lite.owltemporary-par
+t-of> $\OMS/cmsy/m/n/10 $ \OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontologies/DO
+LCE-Lite.owltemporary-
+ []
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.860 ...www.loa-cnr.it/ontologies/DOLCE-Lite.owl#
+                                                  temporary-participant>~\en...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.860 ...www.loa-cnr.it/ontologies/DOLCE-Lite.owl#
+                                                  temporary-participant-in>\...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+Overfull \hbox (72.48228pt too wide) in paragraph at lines 860--861
+[]\OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontologies/DOLCE-Lite.owltemporary-par
+ticipant> $\OMS/cmsy/m/n/10 $ \OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontologie
+s/DOLCE-Lite.owltemporary-
+ []
+
+[14]
+! You can't use `macro parameter character #' in horizontal mode.
+l.870 ...www.loa-cnr.it/ontologies/DOLCE-Lite.owl#
+                                                  temporary-participant>~\en...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.870 ...www.loa-cnr.it/ontologies/DOLCE-Lite.owl#
+                                                  temporary-participant-in>\...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+Overfull \hbox (72.48228pt too wide) in paragraph at lines 870--871
+[]\OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontologies/DOLCE-Lite.owltemporary-par
+ticipant> $\OMS/cmsy/m/n/10 $ \OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontologie
+s/DOLCE-Lite.owltemporary-
+ []
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.882 ...www.loa-cnr.it/ontologies/DOLCE-Lite.owl#
+                                                  temporary-proper-part>~\en...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.882 ...www.loa-cnr.it/ontologies/DOLCE-Lite.owl#
+                                                  temporary-proper-part-of>\...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+Overfull \hbox (74.76006pt too wide) in paragraph at lines 882--883
+[]\OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontologies/DOLCE-Lite.owltemporary-pro
+per-part> $\OMS/cmsy/m/n/10 $ \OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontologie
+s/DOLCE-Lite.owltemporary-
+ []
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.894 ...www.loa-cnr.it/ontologies/DOLCE-Lite.owl#
+                                                  temporary-proper-part>~\en...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.894 ...www.loa-cnr.it/ontologies/DOLCE-Lite.owl#
+                                                  temporary-proper-part-of>\...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+Overfull \hbox (74.76006pt too wide) in paragraph at lines 894--895
+[]\OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontologies/DOLCE-Lite.owltemporary-pro
+per-part> $\OMS/cmsy/m/n/10 $ \OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontologie
+s/DOLCE-Lite.owltemporary-
+ []
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.904 ...www.loa-cnr.it/ontologies/DOLCE-Lite.owl#
+                                                  time-of-q-presence-of>~\en...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.904 ...www.loa-cnr.it/ontologies/DOLCE-Lite.owl#
+                                                  q-present-at>\ensuremath{^-}
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+Overfull \hbox (26.03761pt too wide) in paragraph at lines 904--905
+[]\OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontologies/DOLCE-Lite.owltime-of-q-pre
+sence-of> $\OMS/cmsy/m/n/10 $ \OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontologie
+s/DOLCE-Lite.owlq-
+ []
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.914 ...www.loa-cnr.it/ontologies/DOLCE-Lite.owl#
+                                                  total-constant-participant...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.914 ...www.loa-cnr.it/ontologies/DOLCE-Lite.owl#
+                                                  total-constant-participant...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+Overfull \hbox (3.95433pt too wide) in paragraph at lines 914--915
+[]\OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontologies/DOLCE-Lite.owltotal-constan
+t-participant> $\OMS/cmsy/m/n/10 $ \OT1/cmr/m/n/10 <http://www.loa-cnr.it/onto
+logies/DOLCE-
+ []
+
+[15]
+! You can't use `macro parameter character #' in horizontal mode.
+l.924 ...www.loa-cnr.it/ontologies/DOLCE-Lite.owl#
+                                                  total-constant-participant...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.924 ...www.loa-cnr.it/ontologies/DOLCE-Lite.owl#
+                                                  total-constant-participant...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+Overfull \hbox (3.95433pt too wide) in paragraph at lines 924--925
+[]\OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontologies/DOLCE-Lite.owltotal-constan
+t-participant> $\OMS/cmsy/m/n/10 $ \OT1/cmr/m/n/10 <http://www.loa-cnr.it/onto
+logies/DOLCE-
+ []
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.934 ...www.loa-cnr.it/ontologies/DOLCE-Lite.owl#
+                                                  total-temporary-participan...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.934 ...www.loa-cnr.it/ontologies/DOLCE-Lite.owl#
+                                                  total-temporary-participan...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+Overfull \hbox (12.56549pt too wide) in paragraph at lines 934--935
+[]\OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontologies/DOLCE-Lite.owltotal-tempora
+ry-participant> $\OMS/cmsy/m/n/10 $ \OT1/cmr/m/n/10 <http://www.loa-cnr.it/ont
+ologies/DOLCE-
+ []
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.944 ...www.loa-cnr.it/ontologies/DOLCE-Lite.owl#
+                                                  total-temporary-participan...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.944 ...www.loa-cnr.it/ontologies/DOLCE-Lite.owl#
+                                                  total-temporary-participan...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+Overfull \hbox (12.56549pt too wide) in paragraph at lines 944--945
+[]\OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontologies/DOLCE-Lite.owltotal-tempora
+ry-participant> $\OMS/cmsy/m/n/10 $ \OT1/cmr/m/n/10 <http://www.loa-cnr.it/ont
+ologies/DOLCE-
+ []
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.954 ...www.loa-cnr.it/ontologies/DOLCE-Lite.owl#
+                                                  weak-connection>~\ensurema...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.954 ...www.loa-cnr.it/ontologies/DOLCE-Lite.owl#
+                                                  weak-connection>\ensuremat...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+Overfull \hbox (23.17653pt too wide) in paragraph at lines 954--955
+[]\OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontologies/DOLCE-Lite.owlweak-connecti
+on> $\OMS/cmsy/m/n/10 $ \OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontologies/DOLC
+E-Lite.owlweak-
+ []
+
+[16] (C:\xampp\htdocs\ROMULUS\Axiomitisation\dl\DOLCE\DOLCE-RL.aux) ) 
+Here is how much of TeX's memory you used:
+ 214 strings out of 495285
+ 2606 string characters out of 3179827
+ 51047 words of memory out of 3000000
+ 3496 multiletter control sequences out of 15000+200000
+ 5158 words of font info for 19 fonts, out of 3000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 23i,5n,17p,269b,105s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Progra
+m Files (x86)/MiKTeX 2.8/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Program 
+Files (x86)/MiKTeX 2.8/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Fi
+les (x86)/MiKTeX 2.8/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Program Files
+ (x86)/MiKTeX 2.8/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files (x
+86)/MiKTeX 2.8/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86
+)/MiKTeX 2.8/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
+Output written on DOLCE-RL.pdf (16 pages, 89283 bytes).
+PDF statistics:
+ 78 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+

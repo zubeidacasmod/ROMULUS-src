@@ -1,0 +1,528 @@
+This is pdfTeX, Version 3.1415926-1.40.10 (MiKTeX 2.8) (preloaded format=pdflatex 2012.6.12)  7 NOV 2012 11:15
+entering extended mode
+**C:/xampp/htdocs/ROMULUS/Axiomitisation/dl/DOLCE/SpatialRelations.tex
+(C:/xampp/htdocs/ROMULUS/Axiomitisation/dl/DOLCE/SpatialRelations.tex
+LaTeX2e <2009/09/24>
+Babel <v3.8l> and hyphenation patterns for english, dumylang, nohyphenation, ge
+rman, ngerman, german-x-2009-06-19, ngerman-x-2009-06-19, french, loaded.
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\base\article.cls"
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\base\size10.clo"
+File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(C:\xampp\htdocs\ROMULUS\Axiomitisation\dl\DOLCE\SpatialRelations.aux)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 26.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 26.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.28 ...oa-cnr.it/ontologies/SpatialRelations.owl#
+                                                  approximate-location>~\ens...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.28 ...oa-cnr.it/ontologies/SpatialRelations.owl#
+                                                  approximate-location-of>\e...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+Overfull \hbox (106.67688pt too wide) in paragraph at lines 28--29
+[]\OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontologies/SpatialRelations.owlapproxi
+mate-location> $\OMS/cmsy/m/n/10 $ \OT1/cmr/m/n/10 <http://www.loa-cnr.it/onto
+logies/SpatialRelations.owlapproximate-
+ []
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.38 ...oa-cnr.it/ontologies/SpatialRelations.owl#
+                                                  approximate-location>~\ens...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.38 ...oa-cnr.it/ontologies/SpatialRelations.owl#
+                                                  approximate-location-of>\e...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+Overfull \hbox (106.67688pt too wide) in paragraph at lines 38--39
+[]\OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontologies/SpatialRelations.owlapproxi
+mate-location> $\OMS/cmsy/m/n/10 $ \OT1/cmr/m/n/10 <http://www.loa-cnr.it/onto
+logies/SpatialRelations.owlapproximate-
+ []
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.48 ...oa-cnr.it/ontologies/SpatialRelations.owl#
+                                                  d-spatial-location>~\ensur...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.48 ...oa-cnr.it/ontologies/SpatialRelations.owl#
+                                                  d-spatial-location-of>\ens...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+Overfull \hbox (41.12114pt too wide) in paragraph at lines 48--49
+[]\OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontologies/SpatialRelations.owld-spati
+al-location> $\OMS/cmsy/m/n/10 $ \OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontolo
+gies/SpatialRelations.owld-
+ []
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.58 ...oa-cnr.it/ontologies/SpatialRelations.owl#
+                                                  d-spatial-location>~\ensur...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.58 ...oa-cnr.it/ontologies/SpatialRelations.owl#
+                                                  d-spatial-location-of>\ens...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+Overfull \hbox (41.12114pt too wide) in paragraph at lines 58--59
+[]\OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontologies/SpatialRelations.owld-spati
+al-location> $\OMS/cmsy/m/n/10 $ \OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontolo
+gies/SpatialRelations.owld-
+ []
+
+[1
+
+{C:/ProgramData/MiKTeX/2.8/pdftex/config/pdftex.map}]
+! You can't use `macro parameter character #' in horizontal mode.
+l.68 ...oa-cnr.it/ontologies/SpatialRelations.owl#
+                                                  descriptive-origin>~\ensur...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.68 ...oa-cnr.it/ontologies/SpatialRelations.owl#
+                                                  descriptive-origin-of>\ens...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+Overfull \hbox (81.53783pt too wide) in paragraph at lines 68--69
+[]\OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontologies/SpatialRelations.owldescrip
+tive-origin> $\OMS/cmsy/m/n/10 $ \OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontolo
+gies/SpatialRelations.owldescriptive-
+ []
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.78 ...oa-cnr.it/ontologies/SpatialRelations.owl#
+                                                  descriptive-origin>~\ensur...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.78 ...oa-cnr.it/ontologies/SpatialRelations.owl#
+                                                  descriptive-origin-of>\ens...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+Overfull \hbox (81.53783pt too wide) in paragraph at lines 78--79
+[]\OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontologies/SpatialRelations.owldescrip
+tive-origin> $\OMS/cmsy/m/n/10 $ \OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontolo
+gies/SpatialRelations.owldescriptive-
+ []
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.88 ...oa-cnr.it/ontologies/SpatialRelations.owl#
+                                                  descriptive-place-of>~\ens...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.88 ...oa-cnr.it/ontologies/SpatialRelations.owl#
+                                                  descriptive-place>\ensurem...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+Overfull \hbox (90.12115pt too wide) in paragraph at lines 88--89
+[]\OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontologies/SpatialRelations.owldescrip
+tive-place-of> $\OMS/cmsy/m/n/10 $ \OT1/cmr/m/n/10 <http://www.loa-cnr.it/onto
+logies/SpatialRelations.owldescriptive-
+ []
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.98 ...oa-cnr.it/ontologies/SpatialRelations.owl#
+                                                  descriptive-place-of>~\ens...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.98 ...oa-cnr.it/ontologies/SpatialRelations.owl#
+                                                  descriptive-place>\ensurem...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+Overfull \hbox (90.12115pt too wide) in paragraph at lines 98--99
+[]\OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontologies/SpatialRelations.owldescrip
+tive-place-of> $\OMS/cmsy/m/n/10 $ \OT1/cmr/m/n/10 <http://www.loa-cnr.it/onto
+logies/SpatialRelations.owldescriptive-
+ []
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.116 ...a-cnr.it/ontologies/SpatialRelations.owl#
+                                                  material-place-of>~\ensure...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.116 ...a-cnr.it/ontologies/SpatialRelations.owl#
+                                                  material-place>\ensuremath...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+Overfull \hbox (68.89896pt too wide) in paragraph at lines 116--117
+[]\OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontologies/SpatialRelations.owlmateria
+l-place-of> $\OMS/cmsy/m/n/10 $ \OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontolog
+ies/SpatialRelations.owlmaterial-
+ []
+
+[2]
+! You can't use `macro parameter character #' in horizontal mode.
+l.126 ...a-cnr.it/ontologies/SpatialRelations.owl#
+                                                  material-place-of>~\ensure...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.126 ...a-cnr.it/ontologies/SpatialRelations.owl#
+                                                  material-place>\ensuremath...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+Overfull \hbox (68.89896pt too wide) in paragraph at lines 126--127
+[]\OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontologies/SpatialRelations.owlmateria
+l-place-of> $\OMS/cmsy/m/n/10 $ \OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontolog
+ies/SpatialRelations.owlmaterial-
+ []
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.136 ...a-cnr.it/ontologies/SpatialRelations.owl#
+                                                  origin>~\ensuremath{\equiv...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.136 ...a-cnr.it/ontologies/SpatialRelations.owl#
+                                                  origin-of>\ensuremath{^-}
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+Overfull \hbox (9.7322pt too wide) in paragraph at lines 136--137
+[]\OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontologies/SpatialRelations.owlorigin>
+ $\OMS/cmsy/m/n/10 $ \OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontologies/Spatial
+Relations.owlorigin-
+ []
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.146 ...a-cnr.it/ontologies/SpatialRelations.owl#
+                                                  origin>~\ensuremath{\equiv...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.146 ...a-cnr.it/ontologies/SpatialRelations.owl#
+                                                  origin-of>\ensuremath{^-}
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+Overfull \hbox (9.7322pt too wide) in paragraph at lines 146--147
+[]\OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontologies/SpatialRelations.owlorigin>
+ $\OMS/cmsy/m/n/10 $ \OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontologies/Spatial
+Relations.owlorigin-
+ []
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.156 ...a-cnr.it/ontologies/SpatialRelations.owl#
+                                                  p-spatial-location>~\ensur...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.156 ...a-cnr.it/ontologies/SpatialRelations.owl#
+                                                  p-spatial-location-of>\ens...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+Overfull \hbox (41.12114pt too wide) in paragraph at lines 156--157
+[]\OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontologies/SpatialRelations.owlp-spati
+al-location> $\OMS/cmsy/m/n/10 $ \OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontolo
+gies/SpatialRelations.owlp-
+ []
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.166 ...a-cnr.it/ontologies/SpatialRelations.owl#
+                                                  p-spatial-location>~\ensur...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.166 ...a-cnr.it/ontologies/SpatialRelations.owl#
+                                                  p-spatial-location-of>\ens...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+Overfull \hbox (41.12114pt too wide) in paragraph at lines 166--167
+[]\OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontologies/SpatialRelations.owlp-spati
+al-location> $\OMS/cmsy/m/n/10 $ \OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontolo
+gies/SpatialRelations.owlp-
+ []
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.176 ...a-cnr.it/ontologies/SpatialRelations.owl#
+                                                  participant-place>~\ensure...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.176 ...a-cnr.it/ontologies/SpatialRelations.owl#
+                                                  participant-place-of>\ensu...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+Overfull \hbox (81.39899pt too wide) in paragraph at lines 176--177
+[]\OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontologies/SpatialRelations.owlpartici
+pant-place> $\OMS/cmsy/m/n/10 $ \OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontolog
+ies/SpatialRelations.owlparticipant-
+ []
+
+[3]
+! You can't use `macro parameter character #' in horizontal mode.
+l.186 ...a-cnr.it/ontologies/SpatialRelations.owl#
+                                                  participant-place>~\ensure...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.186 ...a-cnr.it/ontologies/SpatialRelations.owl#
+                                                  participant-place-of>\ensu...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+Overfull \hbox (81.39899pt too wide) in paragraph at lines 186--187
+[]\OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontologies/SpatialRelations.owlpartici
+pant-place> $\OMS/cmsy/m/n/10 $ \OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontolog
+ies/SpatialRelations.owlparticipant-
+ []
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.200 ...a-cnr.it/ontologies/SpatialRelations.owl#
+                                                  place>~\ensuremath{\equiv}...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.200 ...a-cnr.it/ontologies/SpatialRelations.owl#
+                                                  place-of>\ensuremath{^-}
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+Overfull \hbox (4.12102pt too wide) in paragraph at lines 200--201
+[]\OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontologies/SpatialRelations.owlplace> 
+$\OMS/cmsy/m/n/10 $ \OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontologies/SpatialR
+elations.owlplace-
+ []
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.210 ...a-cnr.it/ontologies/SpatialRelations.owl#
+                                                  place>~\ensuremath{\equiv}...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.210 ...a-cnr.it/ontologies/SpatialRelations.owl#
+                                                  place-of>\ensuremath{^-}
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+Overfull \hbox (4.12102pt too wide) in paragraph at lines 210--211
+[]\OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontologies/SpatialRelations.owlplace> 
+$\OMS/cmsy/m/n/10 $ \OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontologies/SpatialR
+elations.owlplace-
+ []
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.220 ...a-cnr.it/ontologies/SpatialRelations.owl#
+                                                  spatial-location>~\ensurem...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.220 ...a-cnr.it/ontologies/SpatialRelations.owl#
+                                                  spatial-location-of>\ensur...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+Overfull \hbox (55.62119pt too wide) in paragraph at lines 220--221
+[]\OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontologies/SpatialRelations.owlspatial
+-location> $\OMS/cmsy/m/n/10 $ \OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontologi
+es/SpatialRelations.owlspatial-
+ []
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.230 ...a-cnr.it/ontologies/SpatialRelations.owl#
+                                                  spatial-location>~\ensurem...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.230 ...a-cnr.it/ontologies/SpatialRelations.owl#
+                                                  spatial-location-of>\ensur...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+Overfull \hbox (55.62119pt too wide) in paragraph at lines 230--231
+[]\OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontologies/SpatialRelations.owlspatial
+-location> $\OMS/cmsy/m/n/10 $ \OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontologi
+es/SpatialRelations.owlspatial-
+ []
+
+[4] [5] (C:\xampp\htdocs\ROMULUS\Axiomitisation\dl\DOLCE\SpatialRelations.aux) 
+) 
+Here is how much of TeX's memory you used:
+ 213 strings out of 495285
+ 2668 string characters out of 3179827
+ 49047 words of memory out of 3000000
+ 3495 multiletter control sequences out of 15000+200000
+ 5158 words of font info for 19 fonts, out of 3000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 23i,5n,17p,273b,105s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files (x86)/MiKTeX 2.8/fonts/type1/public/amsfonts/cm/cmbx10.pfb><
+C:/Program Files (x86)/MiKTeX 2.8/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:
+/Program Files (x86)/MiKTeX 2.8/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Pr
+ogram Files (x86)/MiKTeX 2.8/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Prog
+ram Files (x86)/MiKTeX 2.8/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
+Output written on SpatialRelations.pdf (5 pages, 64376 bytes).
+PDF statistics:
+ 38 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+

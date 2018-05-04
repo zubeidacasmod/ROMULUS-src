@@ -1,0 +1,765 @@
+This is pdfTeX, Version 3.1415926-1.40.10 (MiKTeX 2.8) (preloaded format=pdflatex 2012.6.12)  7 NOV 2012 11:43
+entering extended mode
+**C:/xampp/htdocs/ROMULUS/Axiomitisation/dl/DOLCE/Code/FunctionalParticipation.
+tex
+
+(C:/xampp/htdocs/ROMULUS/Axiomitisation/dl/DOLCE/Code/FunctionalParticipation.t
+ex
+LaTeX2e <2009/09/24>
+Babel <v3.8l> and hyphenation patterns for english, dumylang, nohyphenation, ge
+rman, ngerman, german-x-2009-06-19, ngerman-x-2009-06-19, french, loaded.
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\base\article.cls"
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\base\size10.clo"
+File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(C:\xampp\htdocs\ROMULUS\Axiomitisation\dl\DOLCE\Code\FunctionalParticipation.a
+ux)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 32.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 32.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.34 ...it/ontologies/FunctionalParticipation.owl#
+                                                  causally-follows>~\ensurem...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.34 ...it/ontologies/FunctionalParticipation.owl#
+                                                  causally-precedes>\ensurem...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+Overfull \hbox (126.17691pt too wide) in paragraph at lines 34--35
+[]\OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontologies/FunctionalParticipation.owl
+causally-follows> $\OMS/cmsy/m/n/10 $ \OT1/cmr/m/n/10 <http://www.loa-cnr.it/o
+ntologies/FunctionalParticipation.owlcausally-
+ []
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.44 ...it/ontologies/FunctionalParticipation.owl#
+                                                  causally-follows>~\ensurem...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.44 ...it/ontologies/FunctionalParticipation.owl#
+                                                  causally-precedes>\ensurem...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+Overfull \hbox (126.17691pt too wide) in paragraph at lines 44--45
+[]\OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontologies/FunctionalParticipation.owl
+causally-follows> $\OMS/cmsy/m/n/10 $ \OT1/cmr/m/n/10 <http://www.loa-cnr.it/o
+ntologies/FunctionalParticipation.owlcausally-
+ []
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.56 ...it/ontologies/FunctionalParticipation.owl#
+                                                  functional-participant-in>...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.56 ...it/ontologies/FunctionalParticipation.owl#
+                                                  functional-participant>\en...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+Overfull \hbox (174.09373pt too wide) in paragraph at lines 56--57
+[]\OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontologies/FunctionalParticipation.owl
+functional-participant-in> $\OMS/cmsy/m/n/10 $ \OT1/cmr/m/n/10 <http://www.loa
+-cnr.it/ontologies/FunctionalParticipation.owlfunctional-
+ []
+
+[1
+
+{C:/ProgramData/MiKTeX/2.8/pdftex/config/pdftex.map}]
+! You can't use `macro parameter character #' in horizontal mode.
+l.66 ...it/ontologies/FunctionalParticipation.owl#
+                                                  functional-participant-in>...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.66 ...it/ontologies/FunctionalParticipation.owl#
+                                                  functional-participant>\en...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+Overfull \hbox (174.09373pt too wide) in paragraph at lines 66--67
+[]\OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontologies/FunctionalParticipation.owl
+functional-participant-in> $\OMS/cmsy/m/n/10 $ \OT1/cmr/m/n/10 <http://www.loa
+-cnr.it/ontologies/FunctionalParticipation.owlfunctional-
+ []
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.76 ...it/ontologies/FunctionalParticipation.owl#
+                                                  generic-target>~\ensuremat...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.76 ...it/ontologies/FunctionalParticipation.owl#
+                                                  generic-target-of>\ensurem...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+Overfull \hbox (114.42682pt too wide) in paragraph at lines 76--77
+[]\OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontologies/FunctionalParticipation.owl
+generic-target> $\OMS/cmsy/m/n/10 $ \OT1/cmr/m/n/10 <http://www.loa-cnr.it/ont
+ologies/FunctionalParticipation.owlgeneric-
+ []
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.86 ...it/ontologies/FunctionalParticipation.owl#
+                                                  generic-target>~\ensuremat...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.86 ...it/ontologies/FunctionalParticipation.owl#
+                                                  generic-target-of>\ensurem...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+Overfull \hbox (114.42682pt too wide) in paragraph at lines 86--87
+[]\OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontologies/FunctionalParticipation.owl
+generic-target> $\OMS/cmsy/m/n/10 $ \OT1/cmr/m/n/10 <http://www.loa-cnr.it/ont
+ologies/FunctionalParticipation.owlgeneric-
+ []
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.96 ...it/ontologies/FunctionalParticipation.owl#
+                                                  state-of>~\ensuremath{\equ...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.96 ...it/ontologies/FunctionalParticipation.owl#
+                                                  has-state>\ensuremath{^-}
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+Overfull \hbox (70.84344pt too wide) in paragraph at lines 96--97
+[]\OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontologies/FunctionalParticipation.owl
+state-of> $\OMS/cmsy/m/n/10 $ \OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontologie
+s/FunctionalParticipation.owlhas-
+ []
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.106 ...t/ontologies/FunctionalParticipation.owl#
+                                                  instrument-of>~\ensuremath...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.106 ...t/ontologies/FunctionalParticipation.owl#
+                                                  instrument>\ensuremath{^-}
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+Overfull \hbox (138.4825pt too wide) in paragraph at lines 106--107
+[]\OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontologies/FunctionalParticipation.owl
+instrument-of> $\OMS/cmsy/m/n/10 $ \OT1/cmr/m/n/10 <http://www.loa-cnr.it/onto
+logies/FunctionalParticipation.owlinstrument>$[]$ 
+ []
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.116 ...t/ontologies/FunctionalParticipation.owl#
+                                                  instrument-of>~\ensuremath...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.116 ...t/ontologies/FunctionalParticipation.owl#
+                                                  instrument>\ensuremath{^-}
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+Overfull \hbox (138.4825pt too wide) in paragraph at lines 116--117
+[]\OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontologies/FunctionalParticipation.owl
+instrument-of> $\OMS/cmsy/m/n/10 $ \OT1/cmr/m/n/10 <http://www.loa-cnr.it/onto
+logies/FunctionalParticipation.owlinstrument>$[]$ 
+ []
+
+[2]
+! You can't use `macro parameter character #' in horizontal mode.
+l.130 ...t/ontologies/FunctionalParticipation.owl#
+                                                  patient-of>~\ensuremath{\e...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.130 ...t/ontologies/FunctionalParticipation.owl#
+                                                  patient>\ensuremath{^-}
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+Overfull \hbox (104.98244pt too wide) in paragraph at lines 130--131
+[]\OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontologies/FunctionalParticipation.owl
+patient-of> $\OMS/cmsy/m/n/10 $ \OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontolog
+ies/FunctionalParticipation.owlpatient>$[]$ 
+ []
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.140 ...t/ontologies/FunctionalParticipation.owl#
+                                                  patient-of>~\ensuremath{\e...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.140 ...t/ontologies/FunctionalParticipation.owl#
+                                                  patient>\ensuremath{^-}
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+Overfull \hbox (104.98244pt too wide) in paragraph at lines 140--141
+[]\OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontologies/FunctionalParticipation.owl
+patient-of> $\OMS/cmsy/m/n/10 $ \OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontolog
+ies/FunctionalParticipation.owlpatient>$[]$ 
+ []
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.150 ...t/ontologies/FunctionalParticipation.owl#
+                                                  performed-by>~\ensuremath{...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.150 ...t/ontologies/FunctionalParticipation.owl#
+                                                  performs>\ensuremath{^-}
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+Overfull \hbox (128.76027pt too wide) in paragraph at lines 150--151
+[]\OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontologies/FunctionalParticipation.owl
+performed-by> $\OMS/cmsy/m/n/10 $ \OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontol
+ogies/FunctionalParticipation.owlperforms>$[]$ 
+ []
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.160 ...t/ontologies/FunctionalParticipation.owl#
+                                                  performed-by>~\ensuremath{...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.160 ...t/ontologies/FunctionalParticipation.owl#
+                                                  performs>\ensuremath{^-}
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+Overfull \hbox (128.76027pt too wide) in paragraph at lines 160--161
+[]\OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontologies/FunctionalParticipation.owl
+performed-by> $\OMS/cmsy/m/n/10 $ \OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontol
+ogies/FunctionalParticipation.owlperforms>$[]$ 
+ []
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.174 ...t/ontologies/FunctionalParticipation.owl#
+                                                  prescribes>~\ensuremath{\e...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.174 ...t/ontologies/FunctionalParticipation.owl#
+                                                  prescribed-by>\ensuremath{^-}
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+Overfull \hbox (111.84348pt too wide) in paragraph at lines 174--175
+[]\OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontologies/FunctionalParticipation.owl
+prescribes> $\OMS/cmsy/m/n/10 $ \OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontolog
+ies/FunctionalParticipation.owlprescribed-
+ []
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.184 ...t/ontologies/FunctionalParticipation.owl#
+                                                  prescribes>~\ensuremath{\e...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.184 ...t/ontologies/FunctionalParticipation.owl#
+                                                  prescribed-by>\ensuremath{^-}
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+Overfull \hbox (111.84348pt too wide) in paragraph at lines 184--185
+[]\OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontologies/FunctionalParticipation.owl
+prescribes> $\OMS/cmsy/m/n/10 $ \OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontolog
+ies/FunctionalParticipation.owlprescribed-
+ []
+
+[3]
+! You can't use `macro parameter character #' in horizontal mode.
+l.194 ...t/ontologies/FunctionalParticipation.owl#
+                                                  product>~\ensuremath{\equi...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.194 ...t/ontologies/FunctionalParticipation.owl#
+                                                  product-of>\ensuremath{^-}
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+Overfull \hbox (92.17686pt too wide) in paragraph at lines 194--195
+[]\OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontologies/FunctionalParticipation.owl
+product> $\OMS/cmsy/m/n/10 $ \OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontologies
+/FunctionalParticipation.owlproduct-
+ []
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.204 ...t/ontologies/FunctionalParticipation.owl#
+                                                  product>~\ensuremath{\equi...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.204 ...t/ontologies/FunctionalParticipation.owl#
+                                                  product-of>\ensuremath{^-}
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+Overfull \hbox (92.17686pt too wide) in paragraph at lines 204--205
+[]\OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontologies/FunctionalParticipation.owl
+product> $\OMS/cmsy/m/n/10 $ \OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontologies
+/FunctionalParticipation.owlproduct-
+ []
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.214 ...t/ontologies/FunctionalParticipation.owl#
+                                                  resource-for>~\ensuremath{...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.214 ...t/ontologies/FunctionalParticipation.owl#
+                                                  resource>\ensuremath{^-}
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+Overfull \hbox (118.5657pt too wide) in paragraph at lines 214--215
+[]\OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontologies/FunctionalParticipation.owl
+resource-for> $\OMS/cmsy/m/n/10 $ \OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontol
+ogies/FunctionalParticipation.owlresource>$[]$ 
+ []
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.224 ...t/ontologies/FunctionalParticipation.owl#
+                                                  resource-for>~\ensuremath{...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.224 ...t/ontologies/FunctionalParticipation.owl#
+                                                  resource>\ensuremath{^-}
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+Overfull \hbox (118.5657pt too wide) in paragraph at lines 224--225
+[]\OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontologies/FunctionalParticipation.owl
+resource-for> $\OMS/cmsy/m/n/10 $ \OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontol
+ogies/FunctionalParticipation.owlresource>$[]$ 
+ []
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.234 ...t/ontologies/FunctionalParticipation.owl#
+                                                  result-of>~\ensuremath{\eq...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.234 ...t/ontologies/FunctionalParticipation.owl#
+                                                  result>\ensuremath{^-}
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+Overfull \hbox (92.37126pt too wide) in paragraph at lines 234--235
+[]\OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontologies/FunctionalParticipation.owl
+result-of> $\OMS/cmsy/m/n/10 $ \OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontologi
+es/FunctionalParticipation.owlresult>$[]$ 
+ []
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.244 ...t/ontologies/FunctionalParticipation.owl#
+                                                  result-of>~\ensuremath{\eq...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.244 ...t/ontologies/FunctionalParticipation.owl#
+                                                  result>\ensuremath{^-}
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+Overfull \hbox (92.37126pt too wide) in paragraph at lines 244--245
+[]\OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontologies/FunctionalParticipation.owl
+result-of> $\OMS/cmsy/m/n/10 $ \OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontologi
+es/FunctionalParticipation.owlresult>$[]$ 
+ []
+
+[4]
+! You can't use `macro parameter character #' in horizontal mode.
+l.254 ...t/ontologies/FunctionalParticipation.owl#
+                                                  state-of>~\ensuremath{\equ...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.254 ...t/ontologies/FunctionalParticipation.owl#
+                                                  has-state>\ensuremath{^-}
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+Overfull \hbox (70.84344pt too wide) in paragraph at lines 254--255
+[]\OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontologies/FunctionalParticipation.owl
+state-of> $\OMS/cmsy/m/n/10 $ \OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontologie
+s/FunctionalParticipation.owlhas-
+ []
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.266 ...t/ontologies/FunctionalParticipation.owl#
+                                                  substrate-of>~\ensuremath{...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.266 ...t/ontologies/FunctionalParticipation.owl#
+                                                  substrate>\ensuremath{^-}
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+Overfull \hbox (123.59355pt too wide) in paragraph at lines 266--267
+[]\OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontologies/FunctionalParticipation.owl
+substrate-of> $\OMS/cmsy/m/n/10 $ \OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontol
+ogies/FunctionalParticipation.owlsubstrate>$[]$ 
+ []
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.278 ...t/ontologies/FunctionalParticipation.owl#
+                                                  substrate-of>~\ensuremath{...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.278 ...t/ontologies/FunctionalParticipation.owl#
+                                                  substrate>\ensuremath{^-}
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+Overfull \hbox (123.59355pt too wide) in paragraph at lines 278--279
+[]\OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontologies/FunctionalParticipation.owl
+substrate-of> $\OMS/cmsy/m/n/10 $ \OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontol
+ogies/FunctionalParticipation.owlsubstrate>$[]$ 
+ []
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.288 ...t/ontologies/FunctionalParticipation.owl#
+                                                  target>~\ensuremath{\equiv...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.288 ...t/ontologies/FunctionalParticipation.owl#
+                                                  target-of>\ensuremath{^-}
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+Overfull \hbox (76.06569pt too wide) in paragraph at lines 288--289
+[]\OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontologies/FunctionalParticipation.owl
+target> $\OMS/cmsy/m/n/10 $ \OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontologies/
+FunctionalParticipation.owltarget-
+ []
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.298 ...t/ontologies/FunctionalParticipation.owl#
+                                                  target>~\ensuremath{\equiv...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.298 ...t/ontologies/FunctionalParticipation.owl#
+                                                  target-of>\ensuremath{^-}
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+Overfull \hbox (76.06569pt too wide) in paragraph at lines 298--299
+[]\OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontologies/FunctionalParticipation.owl
+target> $\OMS/cmsy/m/n/10 $ \OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontologies/
+FunctionalParticipation.owltarget-
+ []
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.308 ...t/ontologies/FunctionalParticipation.owl#
+                                                  theme-of>~\ensuremath{\equ...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.308 ...t/ontologies/FunctionalParticipation.owl#
+                                                  theme>\ensuremath{^-}
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+Overfull \hbox (96.64906pt too wide) in paragraph at lines 308--309
+[]\OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontologies/FunctionalParticipation.owl
+theme-of> $\OMS/cmsy/m/n/10 $ \OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontologie
+s/FunctionalParticipation.owltheme>$[]$ 
+ []
+
+[5]
+! You can't use `macro parameter character #' in horizontal mode.
+l.318 ...t/ontologies/FunctionalParticipation.owl#
+                                                  theme-of>~\ensuremath{\equ...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.318 ...t/ontologies/FunctionalParticipation.owl#
+                                                  theme>\ensuremath{^-}
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+Overfull \hbox (96.64906pt too wide) in paragraph at lines 318--319
+[]\OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontologies/FunctionalParticipation.owl
+theme-of> $\OMS/cmsy/m/n/10 $ \OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontologie
+s/FunctionalParticipation.owltheme>$[]$ 
+ []
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.332 ...t/ontologies/FunctionalParticipation.owl#
+                                                  used-in>~\ensuremath{\equi...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.332 ...t/ontologies/FunctionalParticipation.owl#
+                                                  use-of>\ensuremath{^-}
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+Overfull \hbox (68.89897pt too wide) in paragraph at lines 332--333
+[]\OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontologies/FunctionalParticipation.owl
+used-in> $\OMS/cmsy/m/n/10 $ \OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontologies
+/FunctionalParticipation.owluse-
+ []
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.342 ...t/ontologies/FunctionalParticipation.owl#
+                                                  used-in>~\ensuremath{\equi...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.342 ...t/ontologies/FunctionalParticipation.owl#
+                                                  use-of>\ensuremath{^-}
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+Overfull \hbox (68.89897pt too wide) in paragraph at lines 342--343
+[]\OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontologies/FunctionalParticipation.owl
+used-in> $\OMS/cmsy/m/n/10 $ \OT1/cmr/m/n/10 <http://www.loa-cnr.it/ontologies
+/FunctionalParticipation.owluse-
+ []
+
+[6]
+(C:\xampp\htdocs\ROMULUS\Axiomitisation\dl\DOLCE\Code\FunctionalParticipation.a
+ux) ) 
+Here is how much of TeX's memory you used:
+ 213 strings out of 495285
+ 2773 string characters out of 3179827
+ 50047 words of memory out of 3000000
+ 3495 multiletter control sequences out of 15000+200000
+ 5158 words of font info for 19 fonts, out of 3000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 23i,5n,17p,307b,105s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files (x86)/MiKTeX 2.8/fonts/type1/public/amsfonts/cm/cmbx10.p
+fb><C:/Program Files (x86)/MiKTeX 2.8/fonts/type1/public/amsfonts/cm/cmbx12.pfb
+><C:/Program Files (x86)/MiKTeX 2.8/fonts/type1/public/amsfonts/cm/cmr10.pfb><C
+:/Program Files (x86)/MiKTeX 2.8/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/
+Program Files (x86)/MiKTeX 2.8/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
+Output written on FunctionalParticipation.pdf (6 pages, 66117 bytes).
+PDF statistics:
+ 41 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
