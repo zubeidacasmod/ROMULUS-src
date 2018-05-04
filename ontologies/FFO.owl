@@ -1,0 +1,87 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:FFO="http://www.cs.ukzn.ac.za/ontologies/FFO.owl#4"
+    xmlns:FFO3="http://www.cs.ukzn.ac.za/ontologies/FFO.owll#"
+    xmlns:FFO7="http://www.cs.ukzn.ac.za/ontologies/www.cs.ukzn.ac.za/ontologies/FFO.owl#3"
+    xmlns:FFO5="http://www.cs.ukzn.ac.za/ontologies/www.cs.ukzn.ac.za/ontologies/FFO.owll#"
+    xmlns:FFO6="http://www.cs.ukzn.ac.za/ontologies/www.cs.ukzn.ac.za/ontologies/FFO.owl#"
+    xmlns:swrl="http://www.w3.org/2003/11/swrl#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:FFO11="http://www.thezfiles.co.za/ontologies/FFO.owl#4"
+    xmlns:xsp="http://www.owl-ontologies.com/2005/08/07/xsp.owl#"
+    xmlns:swrlb="http://www.w3.org/2003/11/swrlb#"
+    xmlns:DOLCE-Lite="http://www.loa-cnr.it/ontologies/DOLCE-Lite.owl#"
+    xmlns:FFO9="http://www.thezfiles.co.za/ontologies/FFO.owl#"
+    xmlns:FFO10="http://www.thezfiles.co.za/ontologies/FFO.owl#3"
+    xmlns="http://www.cs.ukzn.ac.za/ontologies/FFO.owl#"
+    xmlns:FFO4="http://www.cs.ukzn.ac.za/ontologies/FFO.owl#3"
+    xmlns:protege="http://protege.stanford.edu/plugins/owl/protege#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+    xmlns:FFO8="http://www.cs.ukzn.ac.za/ontologies/www.cs.ukzn.ac.za/ontologies/FFO.owl#4"
+  xml:base="http://www.cs.ukzn.ac.za/ontologies/FFO.owl">
+  <owl:Ontology rdf:about="http://www.thezfiles.co.za/ontologies/FFO.owl">
+    <owl:versionInfo rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >1</owl:versionInfo>
+    <owl:versionInfo rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >Foundational foundational ontology: FFO
+
+A merged higher-level ontology made up of common classes and object properties from DOLCE, BFO and GFO modules.
+
+Created: 24 November 2012
+Updated: 28 November 2012
+Updated: 13 January 2013
+Updated: 04 Feb 2013
+Updated 13 Feb 2013</owl:versionInfo>
+  </owl:Ontology>
+  <owl:Class rdf:about="http:///www.thezfiles.co.za/ontologies/FFO.owl#Material-object">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http:///www.thezfiles.co.za/ontologies/FFO.owl#3D"/>
+    </rdfs:subClassOf>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >A 3D entity with unity.
+
+This is equivalent to DOLCE's physical-object, BFO's Object and GFO's Material_object.</rdfs:comment>
+  </owl:Class>
+  <owl:Class rdf:about="http:///www.thezfiles.co.za/ontologies/FFO.owl#Property">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http:///www.thezfiles.co.za/ontologies/FFO.owl#Entity"/>
+    </rdfs:subClassOf>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >This entity is used to describe an attribute of en entity.
+e.g., the weight of a baby, the colour of hair.
+
+This entity is equivalent to DOLCE's quality, BFO's Quality and GFO's Property.</rdfs:comment>
+  </owl:Class>
+  <owl:Class rdf:about="http:///www.thezfiles.co.za/ontologies/FFO.owl#Spatial-region">
+    <rdfs:subClassOf rdf:resource="http:///www.thezfiles.co.za/ontologies/FFO.owl#Entity"/>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >This entity describes a part of space.
+
+This entity is equivalent to DOLCE's space-region, BFO's SpatialRegion and GFO's Spatial_Region.</rdfs:comment>
+  </owl:Class>
+  <owl:Class rdf:about="http:///www.thezfiles.co.za/ontologies/FFO.owl#3D">
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >Those entities that are wholely present at all time.
+
+This entity is equivalent to DOLCE's endurant, BFO's independantContinuant and GFO's Presential.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http:///www.thezfiles.co.za/ontologies/FFO.owl#Entity"/>
+  </owl:Class>
+  <owl:Class rdf:about="http:///www.thezfiles.co.za/ontologies/FFO.owl#4D">
+    <rdfs:subClassOf rdf:resource="http:///www.thezfiles.co.za/ontologies/FFO.owl#Entity"/>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >An entity that has temporal parts and unfolds over time.
+
+This entity is equivalent to DOLCE's perdurant, BFO's Occurrent and GFO's Occurrent.</rdfs:comment>
+  </owl:Class>
+  <owl:Class rdf:about="http:///www.thezfiles.co.za/ontologies/FFO.owl#Process">
+    <rdfs:subClassOf rdf:resource="http:///www.thezfiles.co.za/ontologies/FFO.owl#4D"/>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >A processual entity.
+
+This entity is equivalent to DOLCE's process, BFO's Process and GFO's Process.</rdfs:comment>
+  </owl:Class>
+</rdf:RDF>
+
+<!-- Created with Protege (with OWL Plugin 3.4, Build 533)  http://protege.stanford.edu -->

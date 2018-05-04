@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns="http://www.cs.ukzn.ac.za/zubeida/ontologies/BFOROGFO-basicMerged.owl#"
+    xmlns:snap="http://www.ifomis.org/bfo/1.1/snap#"
+    xmlns:bfo="http://www.ifomis.org/bfo/1.1#"
+    xmlns:swrl="http://www.w3.org/2003/11/swrl#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:ro="http://www.obofoundry.org/ro/ro.owl#"
+    xmlns:xsp="http://www.owl-ontologies.com/2005/08/07/xsp.owl#"
+    xmlns:swrlb="http://www.w3.org/2003/11/swrlb#"
+    xmlns:gfo="http://www.onto-med.de/ontologies/gfo.owl#"
+    xmlns:p1="http://www.thezfiles.co.za/ontologies/BFORO.owl#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:protege="http://protege.stanford.edu/plugins/owl/protege#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+    xmlns:span="http://www.ifomis.org/bfo/1.1/span#"
+  xml:base="http://www.cs.ukzn.ac.za/zubeida/ontologies/BFOROGFO-basicMerged.owl">
+  <owl:Ontology rdf:about="http://www.thezfiles.co.za/ontologies/BFOROGFO-basicMerged.owl">
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >Merged ontology of BFO - Relational Ontology and  GFO- basic ontology
+Created 20 November 2012
+Updated 23 november 2012
+Updated 18 January 2013
+Updated: 21 January 2013</rdfs:comment>
+    <owl:imports rdf:resource="http://www.thezfiles.co.za/ontologies/BFORO.owl"/>
+    <owl:imports rdf:resource="http://www.onto-med.de/ontologies/gfo-basic.owl"/>
+  </owl:Ontology>
+  <owl:Class rdf:about="http://www.ifomis.org/bfo/1.1/snap#Quality">
+    <rdfs:subClassOf rdf:resource="http://www.onto-med.de/ontologies/gfo.owl#Property"/>
+  </owl:Class>
+  <rdf:Description rdf:about="http://www.ifomis.org/bfo/1.1/span#Occurrent">
+    <owl:equivalentClass rdf:resource="http://www.onto-med.de/ontologies/gfo.owl#Occurrent"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ifomis.org/bfo/1.1/snap#SpatialRegion">
+    <owl:equivalentClass rdf:resource="http://www.onto-med.de/ontologies/gfo.owl#Spatial_region"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ifomis.org/bfo/1.1/snap#Object">
+    <owl:equivalentClass rdf:resource="http://www.onto-med.de/ontologies/gfo.owl#Material_object"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ifomis.org/bfo/1.1/snap#IndependentContinuant">
+    <owl:equivalentClass rdf:resource="http://www.onto-med.de/ontologies/gfo.owl#Presential"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.obofoundry.org/ro/ro.owl#has_proper_part">
+    <owl:equivalentProperty rdf:resource="http://www.onto-med.de/ontologies/gfo.owl#has_proper_part"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.onto-med.de/ontologies/gfo.owl#occupies">
+    <rdfs:subPropertyOf rdf:resource="http://www.obofoundry.org/ro/ro.owl#located_in"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.obofoundry.org/ro/ro.owl#has_part">
+    <owl:equivalentProperty rdf:resource="http://www.onto-med.de/ontologies/gfo.owl#has_part"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.onto-med.de/ontologies/gfo.owl#occupied_by">
+    <rdfs:subPropertyOf rdf:resource="http://www.obofoundry.org/ro/ro.owl#location_of"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ifomis.org/bfo/1.1/snap#Role">
+    <owl:equivalentClass rdf:resource="http://www.onto-med.de/ontologies/gfo.owl#Role"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.obofoundry.org/ro/ro.owl#part_of">
+    <owl:equivalentProperty rdf:resource="http://www.onto-med.de/ontologies/gfo.owl#part_of"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.obofoundry.org/ro/ro.owl#proper_part_of">
+    <owl:equivalentProperty rdf:resource="http://www.onto-med.de/ontologies/gfo.owl#proper_part_of"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ifomis.org/bfo/1.1#Entity">
+    <owl:equivalentClass rdf:resource="http://www.onto-med.de/ontologies/gfo.owl#Entity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ifomis.org/bfo/1.1/snap#ObjectBoundary">
+    <owl:equivalentClass rdf:resource="http://www.onto-med.de/ontologies/gfo.owl#Material_boundary"/>
+  </rdf:Description>
+</rdf:RDF>
+
+<!-- Created with Protege (with OWL Plugin 3.4, Build 533)  http://protege.stanford.edu -->

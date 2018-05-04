@@ -1,0 +1,78 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:snap="http://www.ifomis.org/bfo/1.1/snap#"
+    xmlns:TemporalRelations="http://www.loa-cnr.it/ontologies/TemporalRelations.owl#"
+    xmlns="http://www.cs.ukzn.ac.za/zubeida/ontologies/BFOROTemporalRelationsMerged.owl#"
+    xmlns:swrl="http://www.w3.org/2003/11/swrl#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:ro="http://www.obofoundry.org/ro/ro.owl#"
+    xmlns:xsp="http://www.owl-ontologies.com/2005/08/07/xsp.owl#"
+    xmlns:swrlb="http://www.w3.org/2003/11/swrlb#"
+    xmlns:DOLCE-Lite="http://www.loa-cnr.it/ontologies/DOLCE-Lite.owl#"
+    xmlns:p1="http://www.thezfiles.co.za/ontologies/BFORO.owl#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:protege="http://protege.stanford.edu/plugins/owl/protege#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+    xmlns:span="http://www.ifomis.org/bfo/1.1/span#"
+  xml:base="http://www.cs.ukzn.ac.za/zubeida/ontologies/BFOROTemporalRelationsMerged.owl">
+  <owl:Ontology rdf:about="http://www.thezfiles.co.za/ontologies/BFOROTemporalRelationsMerged.owl">
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >The merged ontology of BFO relational ontology and TemporalRelations.
+Created 21 November 2012
+Updated 23 November 2012
+Updated: 14 January 2013
+Updated: 22 January 2013</rdfs:comment>
+    <owl:versionInfo rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >1</owl:versionInfo>
+    <owl:imports rdf:resource="http://www.thezfiles.co.za/ontologies/BFORO.owl"/>
+    <owl:imports rdf:resource="http://www.loa-cnr.it/ontologies/TemporalRelations.owl"/>
+  </owl:Ontology>
+  <rdf:Description rdf:about="http://www.ifomis.org/bfo/1.1/span#Occurrent">
+    <owl:equivalentClass rdf:resource="http://www.loa-cnr.it/ontologies/DOLCE-Lite.owl#perdurant"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ifomis.org/bfo/1.1/snap#SpatialRegion">
+    <owl:equivalentClass rdf:resource="http://www.loa-cnr.it/ontologies/DOLCE-Lite.owl#space-region"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ifomis.org/bfo/1.1/snap#Object">
+    <owl:equivalentClass rdf:resource="http://www.loa-cnr.it/ontologies/DOLCE-Lite.owl#physical-object"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.loa-cnr.it/ontologies/TemporalRelations.owl#follows">
+    <owl:equivalentProperty rdf:resource="http://www.obofoundry.org/ro/ro.owl#preceded_by"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ifomis.org/bfo/1.1/snap#IndependentContinuant">
+    <owl:equivalentClass rdf:resource="http://www.loa-cnr.it/ontologies/DOLCE-Lite.owl#endurant"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.loa-cnr.it/ontologies/DOLCE-Lite.owl#proper-part-of">
+    <owl:equivalentProperty rdf:resource="http://www.obofoundry.org/ro/ro.owl#proper_part_of"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ifomis.org/bfo/1.1/snap#Quality">
+    <owl:equivalentClass rdf:resource="http://www.loa-cnr.it/ontologies/DOLCE-Lite.owl#quality"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.loa-cnr.it/ontologies/DOLCE-Lite.owl#part">
+    <owl:equivalentProperty rdf:resource="http://www.obofoundry.org/ro/ro.owl#has_part"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ifomis.org/bfo/1.1/snap#MaterialEntity">
+    <owl:equivalentClass rdf:resource="http://www.loa-cnr.it/ontologies/DOLCE-Lite.owl#physical-endurant"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.loa-cnr.it/ontologies/TemporalRelations.owl#precedes">
+    <owl:equivalentProperty rdf:resource="http://www.obofoundry.org/ro/ro.owl#precedes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.loa-cnr.it/ontologies/DOLCE-Lite.owl#proper-part">
+    <owl:equivalentProperty rdf:resource="http://www.obofoundry.org/ro/ro.owl#has_proper_part"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.loa-cnr.it/ontologies/DOLCE-Lite.owl#participant-in">
+    <rdfs:subPropertyOf rdf:resource="http://www.obofoundry.org/ro/ro.owl#participates_in"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.loa-cnr.it/ontologies/DOLCE-Lite.owl#part-of">
+    <owl:equivalentProperty rdf:resource="http://www.obofoundry.org/ro/ro.owl#part_of"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.loa-cnr.it/ontologies/DOLCE-Lite.owl#participant">
+    <rdfs:subPropertyOf rdf:resource="http://www.obofoundry.org/ro/ro.owl#has_participant"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ifomis.org/bfo/1.1/span#Process">
+    <owl:equivalentClass rdf:resource="http://www.loa-cnr.it/ontologies/DOLCE-Lite.owl#process"/>
+  </rdf:Description>
+</rdf:RDF>
+
+<!-- Created with Protege (with OWL Plugin 3.4, Build 533)  http://protege.stanford.edu -->

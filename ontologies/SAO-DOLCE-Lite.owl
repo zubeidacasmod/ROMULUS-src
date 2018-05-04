@@ -1,0 +1,492 @@
+<?xml version="1.0"?>
+
+
+<!DOCTYPE rdf:RDF [
+    <!ENTITY SAO "http://ccdb.ucsd.edu/SAO/1.2#" >
+    <!ENTITY owl "http://www.w3.org/2002/07/owl#" >
+    <!ENTITY swrl "http://www.w3.org/2003/11/swrl#" >
+    <!ENTITY swrlb "http://www.w3.org/2003/11/swrlb#" >
+    <!ENTITY xsd "http://www.w3.org/2001/XMLSchema#" >
+    <!ENTITY snap "http://www.ifomis.org/bfo/1.1/snap#" >
+    <!ENTITY snap2 "http://www.ifomis.org/bfo/1.0/snap#" >
+    <!ENTITY ro "http://www.obofoundry.org/ro/ro.owl#" >
+    <!ENTITY rdfs "http://www.w3.org/2000/01/rdf-schema#" >
+    <!ENTITY rdf "http://www.w3.org/1999/02/22-rdf-syntax-ns#" >
+    <!ENTITY oboInOwl "http://www.geneontology.org/formats/oboInOwl#" >
+    <!ENTITY DOLCE-Lite "http://www.loa-cnr.it/ontologies/DOLCE-Lite.owl#" >
+    <!ENTITY protege "http://protege.stanford.edu/plugins/owl/protege#" >
+    <!ENTITY xsp "http://www.owl-ontologies.com/2005/08/07/xsp.owl#" >
+    <!ENTITY SAO-DOLCE-Lite "http://www.thezfiles.co.za/ontologies/SAO-DOLCE-Lite.owl#" >
+    <!ENTITY p1 "http://www.cs.ukzn.ac.za/ontologies/BFORODOLCE-LiteMerged.owl#" >
+]>
+
+
+<rdf:RDF xmlns="http://www.cs.ukzn.ac.za/zubeida/ontologies/SAO-DOLCE-Lite.owl#"
+     xml:base="http://www.cs.ukzn.ac.za/zubeida/ontologies/SAO-DOLCE-Lite.owl"
+     xmlns:DOLCE-Lite="http://www.loa-cnr.it/ontologies/DOLCE-Lite.owl#"
+     xmlns:p1="http://www.cs.ukzn.ac.za/ontologies/BFORODOLCE-LiteMerged.owl#"
+     xmlns:snap="http://www.ifomis.org/bfo/1.1/snap#"
+     xmlns:snap2="http://www.ifomis.org/bfo/1.0/snap#"
+     xmlns:ro="http://www.obofoundry.org/ro/ro.owl#"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:protege="http://protege.stanford.edu/plugins/owl/protege#"
+     xmlns:swrlb="http://www.w3.org/2003/11/swrlb#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:xsp="http://www.owl-ontologies.com/2005/08/07/xsp.owl#"
+     xmlns:swrl="http://www.w3.org/2003/11/swrl#"
+     xmlns:oboInOwl="http://www.geneontology.org/formats/oboInOwl#"
+     xmlns:SAO="http://ccdb.ucsd.edu/SAO/1.2#"
+     xmlns:SAO-DOLCE-Lite="http://www.thezfiles.co.za/ontologies/SAO-DOLCE-Lite.owl#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+    <owl:Ontology rdf:about="http://www.thezfiles.co.za/ontologies/SAO-DOLCE-Lite.owl">
+        <rdfs:comment rdf:datatype="&xsd;string">SAO ontology in DOLCE
+Created 28 December 2012
+Updated 01 january 2012
+Updated 16 january 2012
+Updated 22 February 2013</rdfs:comment>
+        <owl:imports rdf:resource="http://ccdb.ucsd.edu/SAO/1.2"/>
+        <owl:imports rdf:resource="http://www.thezfiles.co.za/ontologies/BFORODOLCE-LiteMerged.owl"/>
+    </owl:Ontology>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotation properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://ccdb.ucsd.edu/SAO/1.2#sao1844377738 -->
+
+    <owl:ObjectProperty rdf:about="&SAO;sao1844377738">
+        <rdfs:subPropertyOf rdf:resource="&SAO-DOLCE-Lite;SAO"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://ccdb.ucsd.edu/SAO/1.2#sao2047323768 -->
+
+    <owl:ObjectProperty rdf:about="&SAO;sao2047323768">
+        <rdfs:subPropertyOf rdf:resource="&SAO-DOLCE-Lite;SAO"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://ccdb.ucsd.edu/SAO/1.2#sao2103390115 -->
+
+    <owl:ObjectProperty rdf:about="&SAO;sao2103390115">
+        <rdfs:subPropertyOf rdf:resource="&SAO-DOLCE-Lite;SAO"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://ccdb.ucsd.edu/SAO/1.2#sao3610809721 -->
+
+    <owl:ObjectProperty rdf:about="&SAO;sao3610809721">
+        <rdfs:subPropertyOf rdf:resource="&SAO-DOLCE-Lite;SAO"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://ccdb.ucsd.edu/SAO/1.2#sao4245285112 -->
+
+    <owl:ObjectProperty rdf:about="&SAO;sao4245285112">
+        <rdfs:subPropertyOf rdf:resource="&SAO-DOLCE-Lite;SAO"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://ccdb.ucsd.edu/SAO/1.2#sao554204175 -->
+
+    <owl:ObjectProperty rdf:about="&SAO;sao554204175">
+        <rdfs:subPropertyOf rdf:resource="&SAO-DOLCE-Lite;SAO"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://ccdb.ucsd.edu/SAO/1.2#sao5598458770 -->
+
+    <owl:ObjectProperty rdf:about="&SAO;sao5598458770">
+        <rdfs:subPropertyOf rdf:resource="&SAO-DOLCE-Lite;SAO"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://ccdb.ucsd.edu/SAO/1.2#sao7122682114 -->
+
+    <owl:ObjectProperty rdf:about="&SAO;sao7122682114">
+        <rdfs:subPropertyOf rdf:resource="&SAO-DOLCE-Lite;SAO"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://ccdb.ucsd.edu/SAO/1.2#sao923422536 -->
+
+    <owl:ObjectProperty rdf:about="&SAO;sao923422536">
+        <rdfs:subPropertyOf rdf:resource="&SAO-DOLCE-Lite;SAO"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://ccdb.ucsd.edu/SAO/1.2#sao9371595441 -->
+
+    <owl:ObjectProperty rdf:about="&SAO;sao9371595441">
+        <rdfs:subPropertyOf rdf:resource="&SAO-DOLCE-Lite;SAO"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://ccdb.ucsd.edu/SAO/1.2#sao9906015852 -->
+
+    <owl:ObjectProperty rdf:about="&SAO;sao9906015852">
+        <rdfs:subPropertyOf rdf:resource="&SAO-DOLCE-Lite;SAO"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.geneontology.org/formats/oboInOwl#ObsoleteProperty -->
+
+    <rdf:Description rdf:about="&oboInOwl;ObsoleteProperty">
+        <rdfs:subPropertyOf rdf:resource="&SAO-DOLCE-Lite;RO"/>
+    </rdf:Description>
+    
+
+
+    <!-- http://www.loa-cnr.it/ontologies/DOLCE-Lite.owl#immediate-relation -->
+
+    <rdf:Description rdf:about="&DOLCE-Lite;immediate-relation">
+        <rdfs:subPropertyOf rdf:resource="&SAO-DOLCE-Lite;DOLCE-Lite"/>
+    </rdf:Description>
+    
+
+
+    <!-- http://www.loa-cnr.it/ontologies/DOLCE-Lite.owl#immediate-relation-i -->
+
+    <rdf:Description rdf:about="&DOLCE-Lite;immediate-relation-i">
+        <rdfs:subPropertyOf rdf:resource="&SAO-DOLCE-Lite;DOLCE-Lite"/>
+    </rdf:Description>
+    
+
+
+    <!-- http://www.loa-cnr.it/ontologies/DOLCE-Lite.owl#mediated-relation -->
+
+    <rdf:Description rdf:about="&DOLCE-Lite;mediated-relation">
+        <rdfs:subPropertyOf rdf:resource="&SAO-DOLCE-Lite;DOLCE-Lite"/>
+    </rdf:Description>
+    
+
+
+    <!-- http://www.loa-cnr.it/ontologies/DOLCE-Lite.owl#mediated-relation-i -->
+
+    <rdf:Description rdf:about="&DOLCE-Lite;mediated-relation-i">
+        <rdfs:subPropertyOf rdf:resource="&SAO-DOLCE-Lite;DOLCE-Lite"/>
+    </rdf:Description>
+    
+
+
+    <!-- http://www.obofoundry.org/ro/ro.owl#adjacent_to -->
+
+    <rdf:Description rdf:about="&ro;adjacent_to">
+        <rdfs:subPropertyOf rdf:resource="&SAO-DOLCE-Lite;RO"/>
+    </rdf:Description>
+    
+
+
+    <!-- http://www.obofoundry.org/ro/ro.owl#contained_in -->
+
+    <rdf:Description rdf:about="&ro;contained_in">
+        <rdfs:subPropertyOf rdf:resource="&SAO-DOLCE-Lite;RO"/>
+    </rdf:Description>
+    
+
+
+    <!-- http://www.obofoundry.org/ro/ro.owl#contains -->
+
+    <rdf:Description rdf:about="&ro;contains">
+        <rdfs:subPropertyOf rdf:resource="&SAO-DOLCE-Lite;RO"/>
+    </rdf:Description>
+    
+
+
+    <!-- http://www.obofoundry.org/ro/ro.owl#derived_into -->
+
+    <rdf:Description rdf:about="&ro;derived_into">
+        <rdfs:subPropertyOf rdf:resource="&SAO-DOLCE-Lite;RO"/>
+    </rdf:Description>
+    
+
+
+    <!-- http://www.obofoundry.org/ro/ro.owl#derives_from -->
+
+    <rdf:Description rdf:about="&ro;derives_from">
+        <rdfs:subPropertyOf rdf:resource="&SAO-DOLCE-Lite;RO"/>
+    </rdf:Description>
+    
+
+
+    <!-- http://www.obofoundry.org/ro/ro.owl#has_part -->
+
+    <rdf:Description rdf:about="&ro;has_part">
+        <rdfs:subPropertyOf rdf:resource="&SAO-DOLCE-Lite;RO"/>
+    </rdf:Description>
+    
+
+
+    <!-- http://www.obofoundry.org/ro/ro.owl#has_participant -->
+
+    <rdf:Description rdf:about="&ro;has_participant">
+        <rdfs:subPropertyOf rdf:resource="&SAO-DOLCE-Lite;RO"/>
+    </rdf:Description>
+    
+
+
+    <!-- http://www.obofoundry.org/ro/ro.owl#located_in -->
+
+    <rdf:Description rdf:about="&ro;located_in">
+        <rdfs:range rdf:resource="&snap2;Site"/>
+        <rdfs:subPropertyOf rdf:resource="&SAO-DOLCE-Lite;RO"/>
+    </rdf:Description>
+    
+
+
+    <!-- http://www.obofoundry.org/ro/ro.owl#location_of -->
+
+    <rdf:Description rdf:about="&ro;location_of">
+        <rdfs:subPropertyOf rdf:resource="&SAO-DOLCE-Lite;RO"/>
+    </rdf:Description>
+    
+
+
+    <!-- http://www.obofoundry.org/ro/ro.owl#part_of -->
+
+    <rdf:Description rdf:about="&ro;part_of">
+        <rdfs:subPropertyOf rdf:resource="&SAO-DOLCE-Lite;RO"/>
+    </rdf:Description>
+    
+
+
+    <!-- http://www.obofoundry.org/ro/ro.owl#participates_in -->
+
+    <rdf:Description rdf:about="&ro;participates_in">
+        <rdfs:subPropertyOf rdf:resource="&SAO-DOLCE-Lite;RO"/>
+    </rdf:Description>
+    
+
+
+    <!-- http://www.obofoundry.org/ro/ro.owl#preceded_by -->
+
+    <rdf:Description rdf:about="&ro;preceded_by">
+        <rdfs:subPropertyOf rdf:resource="&SAO-DOLCE-Lite;RO"/>
+    </rdf:Description>
+    
+
+
+    <!-- http://www.obofoundry.org/ro/ro.owl#precedes -->
+
+    <rdf:Description rdf:about="&ro;precedes">
+        <rdfs:subPropertyOf rdf:resource="&SAO-DOLCE-Lite;RO"/>
+    </rdf:Description>
+    
+
+
+    <!-- http://www.obofoundry.org/ro/ro.owl#transformation_of -->
+
+    <rdf:Description rdf:about="&ro;transformation_of">
+        <rdfs:subPropertyOf rdf:resource="&SAO-DOLCE-Lite;RO"/>
+    </rdf:Description>
+    
+
+
+    <!-- http://www.thezfiles.co.za/ontologies/SAO-DOLCE-Lite.owl#DOLCE-Lite -->
+
+    <owl:ObjectProperty rdf:about="&SAO-DOLCE-Lite;DOLCE-Lite"/>
+    
+
+
+    <!-- http://www.thezfiles.co.za/ontologies/SAO-DOLCE-Lite.owl#RO -->
+
+    <owl:ObjectProperty rdf:about="&SAO-DOLCE-Lite;RO"/>
+    
+
+
+    <!-- http://www.thezfiles.co.za/ontologies/SAO-DOLCE-Lite.owl#SAO -->
+
+    <owl:ObjectProperty rdf:about="&SAO-DOLCE-Lite;SAO"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://ccdb.ucsd.edu/SAO/1.2#sao-1819020575 -->
+
+    <owl:Class rdf:about="&SAO;sao-1819020575">
+        <rdfs:subClassOf rdf:resource="&snap;FiatObjectPart"/>
+    </owl:Class>
+    
+
+
+    <!-- http://ccdb.ucsd.edu/SAO/1.2#sao-301233507 -->
+
+    <owl:Class rdf:about="&SAO;sao-301233507">
+        <rdfs:subClassOf rdf:resource="&snap;ObjectAggregate"/>
+    </owl:Class>
+    
+
+
+    <!-- http://ccdb.ucsd.edu/SAO/1.2#sao1057800815 -->
+
+    <owl:Class rdf:about="&SAO;sao1057800815">
+        <rdfs:subClassOf rdf:resource="&DOLCE-Lite;quality"/>
+    </owl:Class>
+    
+
+
+    <!-- http://ccdb.ucsd.edu/SAO/1.2#sao1329750433 -->
+
+    <owl:Class rdf:about="&SAO;sao1329750433">
+        <rdfs:subClassOf rdf:resource="&snap;ObjectBoundary"/>
+    </owl:Class>
+    
+
+
+    <!-- http://ccdb.ucsd.edu/SAO/1.2#sao1337158144 -->
+
+    <owl:Class rdf:about="&SAO;sao1337158144">
+        <rdfs:subClassOf rdf:resource="&DOLCE-Lite;physical-object"/>
+    </owl:Class>
+    
+
+
+    <!-- http://ccdb.ucsd.edu/SAO/1.2#sao1813327414 -->
+
+    <owl:Class rdf:about="&SAO;sao1813327414">
+        <rdfs:subClassOf rdf:resource="&DOLCE-Lite;physical-object"/>
+    </owl:Class>
+    
+
+
+    <!-- http://ccdb.ucsd.edu/SAO/1.2#sao1970895398 -->
+
+    <owl:Class rdf:about="&SAO;sao1970895398">
+        <rdfs:subClassOf rdf:resource="&snap;ObjectAggregate"/>
+    </owl:Class>
+    
+
+
+    <!-- http://ccdb.ucsd.edu/SAO/1.2#sao279801585 -->
+
+    <owl:Class rdf:about="&SAO;sao279801585">
+        <rdfs:subClassOf rdf:resource="&DOLCE-Lite;quality"/>
+    </owl:Class>
+    
+
+
+    <!-- http://ccdb.ucsd.edu/SAO/1.2#sao340271629 -->
+
+    <owl:Class rdf:about="&SAO;sao340271629">
+        <rdfs:subClassOf rdf:resource="&snap;FiatObjectPart"/>
+    </owl:Class>
+    
+
+
+    <!-- http://ccdb.ucsd.edu/SAO/1.2#sao349337269 -->
+
+    <owl:Class rdf:about="&SAO;sao349337269">
+        <rdfs:subClassOf rdf:resource="&DOLCE-Lite;quality"/>
+    </owl:Class>
+    
+
+
+    <!-- http://ccdb.ucsd.edu/SAO/1.2#sao500241072 -->
+
+    <owl:Class rdf:about="&SAO;sao500241072">
+        <rdfs:subClassOf rdf:resource="&DOLCE-Lite;physical-object"/>
+    </owl:Class>
+    
+
+
+    <!-- http://ccdb.ucsd.edu/SAO/1.2#sao508165343 -->
+
+    <owl:Class rdf:about="&SAO;sao508165343">
+        <rdfs:subClassOf rdf:resource="&snap;ObjectAggregate"/>
+    </owl:Class>
+    
+
+
+    <!-- http://ccdb.ucsd.edu/SAO/1.2#sao732945962 -->
+
+    <owl:Class rdf:about="&SAO;sao732945962">
+        <rdfs:subClassOf rdf:resource="&DOLCE-Lite;quality"/>
+    </owl:Class>
+    
+
+
+    <!-- http://ccdb.ucsd.edu/SAO/1.2#sao991156472 -->
+
+    <owl:Class rdf:about="&SAO;sao991156472">
+        <rdfs:subClassOf rdf:resource="&snap;ObjectAggregate"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.ifomis.org/bfo/1.0/snap#Site -->
+
+    <owl:Class rdf:about="&snap2;Site">
+        <rdfs:subClassOf rdf:resource="&DOLCE-Lite;physical-endurant"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.ifomis.org/bfo/1.1/snap#FiatObjectPart -->
+
+    <owl:Class rdf:about="&snap;FiatObjectPart">
+        <rdfs:subClassOf rdf:resource="&DOLCE-Lite;physical-endurant"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.ifomis.org/bfo/1.1/snap#ObjectAggregate -->
+
+    <owl:Class rdf:about="&snap;ObjectAggregate">
+        <rdfs:subClassOf rdf:resource="&DOLCE-Lite;physical-endurant"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.ifomis.org/bfo/1.1/snap#ObjectBoundary -->
+
+    <owl:Class rdf:about="&snap;ObjectBoundary">
+        <rdfs:subClassOf rdf:resource="&DOLCE-Lite;endurant"/>
+    </owl:Class>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 3.2.3.1824) http://owlapi.sourceforge.net -->
+
