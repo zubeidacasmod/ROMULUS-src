@@ -1,0 +1,290 @@
+<!DOCTYPE html>
+<!-- Consider specifying the language of your content by adding the `lang` attribute to <html> -->
+<!--[if lt IE 7]> <html class="no-js ie6"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+<head>
+
+	<meta charset="utf-8">
+
+	<!-- Always force latest IE rendering engine & Chrome Frame -->
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+	<!-- Put your title here! -->
+	<title></title>
+
+	<meta name="description" content="">
+
+	 <!-- Mobile viewport optimized: h5bp.com/viewport -->
+	<meta name="viewport" content="width=device-width">
+
+	<link href="style.css" rel="stylesheet">
+
+	<!-- Load Open Sans and Merriweather from Google Fonts
+		For optimal performance, customize it to load the styles you need:
+		http://goo.gl/QufgJ
+	-->
+	<link href="//fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,700|Merriweather:400,700,900" rel="stylesheet">
+
+	<!-- All JavaScript at the bottom, except for Modernizr
+		Modernizr enables HTML5 elements & feature detects; It includes Respond, a polyfill for min/max-width CSS3 Media Queries
+		For optimal performance, use a custom Modernizr build: www.modernizr.com/download/ -->
+	<script src="js/modernizr-2.6.1.min.js"></script>
+</head>
+
+<body>
+
+	<!-- Prompt IE 6 and 7 users to install Chrome Frame:		chromium.org/developers/how-tos/chrome-frame-getting-started -->
+	<!--[if lt IE 8]>
+		<p class="chromeframe alert alert-warning">Your browser is <em>ancient!</em> <a href="http://browsehappy.com/">Upgrade to a different browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">install Google Chrome Frame</a> to experience this site.</p>
+	<![endif]-->
+
+	<header id="master-header" class="clearfix" role="banner">
+
+		<hgroup>
+			<h1 id="site-title"><a href="home.html" title="ROMULUS   Repository of Ontologies for MULtiple USes
+">ROMULUS : Repository of Ontologies for MULtiple USes</a></h1>
+			<h2 id="site-description"> A repository of foundational ontologies. </h2>
+		</hgroup>
+
+	</header> <!-- #master-header -->
+
+<div id="main" class="row clearfix">
+
+	<!-- Main navigation -->
+	<nav class="main-navigation clearfix span12" role="navigation">
+		<h3 class="assistive-text">Main menu</h3>
+		<ul>
+			<li><a href="home.html">Home</a></li>
+			
+            <li><a href="browseOntologies.html">Browse Ontologies</a></li>
+            <li>				<a href="ontologyComparison.html">Ontology Comparison</a>	
+             <ul class="sub-menu">
+					<li><a href="ontologicalCommitments.html">Ontological Commitments</a></li>
+					<li><a href="representationLanguages.html">Representation Languages</a></li>
+                    <li><a href="softwareEngineeringProperties.html">Software Engineering properties</a></li>
+                    <li><a href="subjectDomains.html">Subject Domains</a></li>
+                    <li><a href="applications.html">Applications</a></li>
+			  </ul>
+            </li>
+            <li><a href="ontologyAxiomatisation.html">Ontology Verbalisation</a>
+              <ul class="sub-menu">
+            <li><a href="DLView.html">Description logic view</a></li>
+             <li><a href="NLView.html">Natural language view</a></li>
+            </ul>
+            
+            </li>
+            <li class="current"><a href="ontologyMediation.html">Ontology Mediation</a>
+             <ul class="sub-menu">				<li><a href="ontologyAlignment.html">Alignment</a></li>
+				<li><a href="ontologyAlignmentMetadata.html">Alignment Metadata</a></li>
+				      <li><a href="ontologyMapping.html">Mapping</a></li>
+                                  <li><a href="ontologyMerging.html">Merging</a></li>                                        <li><a href="ontologyMediationSearch.html">Search</a></li>
+<li><a href="FOinterchange.html">Ontology Interchangeability Method</a></li>
+<li><a href="ontologyInterchange.html">Ontology Interchangeability Tool</a></li>
+                                  <li class = "current"><a href="mappingIncon.html">Mapping Inconsistencies</a></li>			 
+            </ul>
+            </li>
+            <li><a href="ontologyMetadata.html">Ontology Metadata</a>
+<ul class="sub-menu">
+<li><a href="ontologyMetadataSearch.html">Ontology Metadata Search</a></li>
+</ul>
+</li>
+            <li><a href="downloads.html">Downloads</a>
+           
+            </li>
+            <li><a href="ontologySelection.html">Ontology Selection</a></li>
+<li><a href="communitySubmission.html">Community</a></li>
+        <li><a href="evaluation.html">Evaluate ROMULUS</a>
+           
+        </li> <!-- Close first evaluation li -->
+        
+		
+  <li><a href="contact.html">Contact</a></li>
+	  
+      </ul>
+	</nav> <!-- #main-navigation -->
+
+<div id="content" role="main" class="span12">
+
+	<article class="post hentry">
+
+		<header class="entry-header">
+			<h1 class="entry-title">
+				<a href="#" title="Post Heading" rel="bookmark">Mapping Inconsistencies</a>
+			</h1>
+
+                     A number of pairs from the ontology alignments could not be mapped as they resulted in ontology inconsistencies.
+
+			<h2>Logical Inconsistencies between DOLCE and BFO</h2>
+
+		<ol> 
+			<li><strong>DOLCE-Lite:<font face="courier">spatio-temporal-region</font> - BFO:<font face="courier">SpatioTemporalRegion</font>:</strong> DOLCE's <font face="courier">spatio-temporal-region</font> is a subclass of DOLCE's  <font face="courier">abstract</font>. DOLCE's <font face="courier">abstract</font> is disjoint to DOLCE's <font face="courier">perdurant</font>. DOLCE's <font face="courier">perdurant</font> is equivalent to BFO's <font face="courier">Occurrent</font>. BFO's <font face="courier">SpatioTemporalRegion</font> is a subclass of BFO's <font face="courier">Occurrent</font>. This inconsistency is a result of the OWL <font face="courier">DisjointClasses</font> class axiom. In this equivalence relation, both DOLCE's <font face="courier">spatio-temporal-region</font> and BFO's <font face="courier">SpatioTemporalRegion</font> are subclasses of two classes that are disjoint, hence the two classes cannot be equivalent. </li>
+			<br>
+			<li><strong>DOLCE-Lite:<font face="courier">temporal-region</font> - BFO:<font face="courier">TemporalRegion</font>:</strong> This inconsistency is similar to the above inconsistency, having the same root cause.  DOLCE's <font face="courier">temporal-region</font> is a subclass of DOLCE's <font face="courier">abstract</font>. DOLCE's  <font face="courier">abstract</font> is disjoint to DOLCE's <font face="courier">perdurant</font>. DOLCE's <font face="courier">perdurant</font> is equivalent to BFO's <font face="courier">Occurrent</font>. BFO's <font face="courier">TemporalRegion</font> is a subclass of BFO's <font face="courier">Occurrent</font>. This inconsistency is a result of the OWL <font face="courier">DisjointClasses</font> class axiom. In this equivalence relation, both DOLCE's <font face="courier">temporal-region</font> and BFO's <font face="courier">TemporalRegion</font> are subclasses of two classes that are disjoint, hence the two classes cannot be equivalent. </li>
+			<br>
+
+			<li><strong>DOLCE-Lite:<font face="courier">participant</font> - BFORO:<font face="courier">has_participant</font>:</strong> The range of DOLCE's <font face="courier">participant</font> is <font face="courier">endurant</font>. The range of BFO's <font face="courier">has_participant</font> is <font face="courier">Continuant</font>. DOLCE's <font face="courier">endurant</font> is disjoint to its <font face="courier">quality</font>. DOLCE's <font face="courier">quality</font> is equivalent to BFO's <font face="courier">Quality</font>. BFO's <font face="courier">Quality</font> is a subclass of its <font face="courier">Continuant</font>. This inconsistency is a result of the OWL <font face="courier">DisjointClasses</font> class axiom. In this equivalence relation, DOLCE's <font face="courier">endurant</font> is disjoint to a subclass of BFO's <font face="courier">Continuant</font>, causing the range restrictions of DOLCE and BFO to conflict for this relation.  </li>
+			<br>
+
+			<li><strong>DOLCE-Lite:<font face="courier">participant-in</font> - BFORO:<font face="courier">participates_in</font>:</strong> This inconsistency is similar to the above inconsistency, having the same root cause. The domain of DOLCE's <font face="courier">participant-in</font> is <font face="courier">endurant</font>. The domain of BFO's <font face="courier">participates_in</font> is <font face="courier">Continuant</font>. DOLCE's <font face="courier">endurant</font> is disjoint to its <font face="courier">quality</font>. DOLCE's <font face="courier">quality</font> is equivalent to BFORO's <font face="courier">Quality</font>. BFO's <font face="courier">Quality</font> is a subclass of its <font face="courier">Continuant</font>. This inconsistency is a result of the OWL <font face="courier">DisjointClasses</font> class axiom. In this equivalence relation, DOLCE's <font face="courier">endurant</font> is disjoint to a subclass of BFO's <font face="courier">Continuant</font>, causing the domain restrictions of DOLCE and BFO to conflict for this relation.</li>
+			<br>
+			<li><strong>DOLCE-Lite:<font face="courier">generic-location </font>- BFORO:<font face="courier">located_in</font>:</strong> The range of DOLCE's <font face="courier">generic-location</font> is <font face="courier">particular</font>. The range of BFO's <font face="courier">located_in</font> is <font face="courier">Continuant</font>. BFO's <font face="courier">Continuant</font> is disjoint to its <font face="courier">Occurrent</font>. BFO's <font face="courier">Occurrent</font> is equivalent to DOLCE'S <font face="courier">perdurant</font>. DOLCE's <font face="courier">perdurant</font> is a subclass of <font face="courier">has-Quality some temporal-location-q</font>. The domain of DOLCE's <font face="courier">has-quality</font> is <font face="courier">particular</font>. This inconsistency is a result of the OWL <font face="courier">DisjointClasses</font> class axiom. In this equivalence relation, BFO's <font face="courier">Continuant</font> is disjoint to a subclass of DOLCE's <font face="courier">has-Quality some temporal-location-q</font> having a domain <font face="courier">particular</font>, causing the range restrictions of DOLCE and BFO to conflict for this relation.</li>
+			<br>
+			<li><strong>DOLCE-Lite:<font face="courier">generic-location-of</font> - BFORO:<font face="courier">located_of</font>:</strong> This inconsistency is similar to the above inconsistency, having the same root cause. The range of DOLCE's <font face="courier">generic-location-of</font> is <font face="courier">particular</font>. The range of BFO's <font face="courier">located_of</font> is <font face="courier">Continuant</font>. BFO's <font face="courier">Continuant</font> is disjoint to its <font face="courier">Occurrent</font>. BFO's <font face="courier">Occurrent</font> is equivalent to DOLCE'S <font face="courier">perdurant</font>. DOLCE's <font face="courier">perdurant</font> is a subclass of <font face="courier">has-Quality some temporal-location-q</font>. The domain of DOLCE's <font face="courier">has-quality</font> is <font face="courier">particular</font>. This inconsistency is a result of the OWL <font face="courier">DisjointClasses</font> class axiom. In this equivalence relation, BFO's <font face="courier">Continuant</font> is disjoint to a subclass of DOLCE's <font face="courier">has-Quality some temporal-location-q</font> having a domain <font face="courier">particular</font>, causing the range restrictions of DOLCE and BFO to conflict for this relation.</li>
+		</ol>
+
+
+			<h2>Logical Inconsistencies between DOLCE and GFO</h2>
+
+<ol>
+
+<li><strong>DOLCE-Lite:<font face="courier">set</font> - GFO:<font face="courier">Set</font>:</strong> DOLCE's <font face="courier">set</font> is a subclass of DOLCE's <font face="courier">abstract</font>. DOLCE's <font face="courier">abstract</font> is equivalent to GFO's <font face="courier">Abstract</font>. GFO's <font face="courier">Abstract</font> is a subclass of GFO's <font face="courier">Item</font>. GFO's <font face="courier">Set</font> is disjoint to GFO's <font face="courier">Item</font>. This inconsistency is a result of the OWL <font face="courier">DisjointClasses</font> class axiom. In this equivalence relation, GFO's <font face="courier">Set</font> is disjoint to a superclass of DOLCE's <font face="courier">set</font>, hence the two classes cannot be equivalent.</li><br>
+
+<li><strong>DOLCE-Lite:<font face="courier">physical-endurant</font> - GFO:<font face="courier">Material_persistant</strong>:</font> DOLCE's <font face="courier">physical-endurant</font> is a subclass of DOLCE's <font face="courier">endurant</font>. DOLCE's <font face="courier">endurant</font> is equivalent to GFO's <font face="courier">Presential</font>. GFO's <font face="courier">Presential</font> is a subclass of GFO's <font face="courier">Individual</font>. GFO's <font face="courier">Individual</font> is a subclass of the complement of GFO's <font face="courier">instantiated_by</font> some GFO's <font face="courier">Item</font>. GFO's <font face="courier">Material_persistant</font> is a subclass of GFO's <font face="courier">Persistant</font>. GFO's <font face="courier">Persistant</font> is a subclass of GFO's <font face="courier">instantiated_by</font> some GFO's <font face="courier">Item</font>. This inconsistency is a result of the OWL <font face="courier">Complement</font> class constructor. In this equivalence relation, GFO's <font face="courier">Material_persistant</font> is a subclass of its <font face="courier">instantiated_by</font> some GFO's <font face="courier">Item</font> while DOLCE's <font face="courier">physical-endurant</font> is a subclass of the complement of that class, hence the two classes cannot be equivalent.</li><br>
+
+<li><strong>DOLCE-Lite:<font face="courier">quale</font> - GFO:<font face="courier">Property_value</font>:</strong> DOLCE's <font face="courier">quale</font> is a subclass of DOLCE's <font face="courier">abstract</font>. DOLCE's <font face="courier">abstract</font> is equivalent to GFO's <font face="courier">Abstract</font>. GFO's <font face="courier">Property_value</font> is a subclass of GFO's <font face="courier">Concrete</font>. GFO's <font face="courier">Concrete</font> is disjoint to GFO's <font face="courier">Abstract</font>. This inconsistency is a result of the OWL <font face="courier">DisjointClasses</font> class axiom. In this equivalence relation, both DOLCE's <font face="courier">quale</font> and GFO's <font face="courier">Property_value</font> are subclasses of two classes that are disjoint, hence the two classes cannot be equivalent.</li><br>
+
+<li><strong>DOLCE-Lite:<font face="courier">quality-space</font> - GFO:<font face="courier">Value_space</font>:</strong> DOLCE's <font face="courier">quality-space</font> is a subclass of DOLCE's <font face="courier">particular</font>. DOLCE's <font face="courier">particular</font> is equivalent to GFO's <font face="courier">Individual</font>. GFO's <font face="courier">Value_space</font> is a subclass of GFO's <font face="courier">Category</font>. GFO's <font face="courier">Category</font> is disjoint to GFO's <font face="courier">Individual</font>. This inconsistency is a result of the OWL <font face="courier">DisjointClasses</font> class axiom. In this equivalence relation, both DOLCE's <font face="courier">quality-space</font> and GFO's <font face="courier">Value_space</font> are subclasses of two classes that are disjoint, hence the two classes cannot be equivalent.</li><br>
+
+<li><strong>DOLCE-Lite:<font face="courier">time-interval</font> - GFO:<font face="courier">Chronoid</font>:</strong> DOLCE's <font face="courier">time-interval</font> is a subclass of DOLCE's <font face="courier">abstract</font>. DOLCE's <font face="courier">abstract</font> is equivalent to GFO's <font face="courier">Abstract</font>. GFO's <font face="courier">Chronoid</font> is a subclass of GFO's <font face="courier">Space_Time</font>. GFO's <font face="courier">Space_Time</font> is disjoint to GFO's <font face="courier">Abstract</font>. This inconsistency is a result of the OWL <font face="courier">DisjointClasses</font> class axiom. In this equivalence relation, both DOLCE's <font face="courier">time-interval</font> and GFO's <font face="courier">Chronoid</font> are subclasses of two classes that are disjoint, hence the two classes cannot be equivalent.</li><br>
+
+<li><strong>DOLCE-Lite:<font face="courier">space-region</font> - GFO:<font face="courier">Spatial_region</font>:</strong> This inconsistency is similar to the above inconsistency, having the same root cause. DOLCE's <font face="courier">space-region</font> is a subclass of DOLCE's <font face="courier">abstract</font>. DOLCE's <font face="courier">abstract</font> is equivalent to GFO's <font face="courier">Abstract</font>. GFO's <font face="courier">Spatial_region</font> is a subclass of GFO's <font face="courier">Space_Time</font>. GFO's <font face="courier">Space_Time</font> is disjoint to GFO's <font face="courier">Abstract</font>. This inconsistency is a result of the OWL <font face="courier">DisjointClasses</font> class axiom. In this equivalence relation, both DOLCE's <font face="courier">space-region</font> and GFO's <font face="courier">Spatial_region</font> are subclasses of two classes that are disjoint, hence the two classes cannot be equivalent.</li><br>
+
+<li><strong>DOLCE-Lite:<font face="courier">temporal-region</font> - GFO:<font face="courier">Temporal_region</font>:</strong>This inconsistency is similar to the two above inconsistencies, having the same root cause. DOLCE's <font face="courier">temporal-region</font> is a subclass of DOLCE's <font face="courier">abstract</font>. DOLCE's <font face="courier">abstract</font> is equivalent to GFO's <font face="courier">Abstract</font>. GFO's <font face="courier">Temporal_region</font> is a subclass of GFO's <font face="courier">Space_Time</font>. GFO's <font face="courier">Space_Time</font> is disjoint to GFO's <font face="courier">Abstract</font>. This inconsistency is a result of the OWL <font face="courier">DisjointClasses</font> class axiom. In this equivalence relation, both DOLCE's <font face="courier">temporal-region</font> and GFO's <font face="courier">Temporal_region</font> are subclasses of two classes that are disjoint, hence the two classes cannot be equivalent.</li><br>
+
+<li><strong>DOLCE-Lite:<font face="courier">state</font> - GFOBasic:<font face="courier">State</font>:</strong>DOLCE's <font face="courier">state</font> is a subclass of its <font face="courier">perdurant</font>. DOLCE's <font face="courier">state</font> is equivalent to GFO's <font face="courier">State</font>. GFO's <font face="courier">State</font> is a subclass of its <font face="courier">Process</font>. GFO's <font face="courier">Process</font> is disjoint to its <font face="courier">Occurrent</font>. GFO's <font face="courier">Occurrent</font> is equivalent to DOLCE's <font face="courier">perdurant</font>. This inconsistency is a result of the OWL <font face="courier">DisjointClasses</font> class axiom. In this equivalence relation, both DOLCE's <font face="courier">state</font> and GFO's <font face="courier">State</font> are subclasses of two classes that are disjoint, hence the two classes cannot be equivalent.</li><br>
+
+<li><strong>DOLCE-Lite:<font face="courier">process</font> - GFOBasic:<font face="courier">Process</font>:</strong>This inconsistency is similar to the above inconsistency, having the same root cause. DOLCE's <font face="courier">process</font> is a subclass of its <font face="courier">perdurant</font>. GFO's <font face="courier">Process</font> is disjoint to its <font face="courier">Occurrent</font>. GFO's <font face="courier">Occurrent</font> is equivalent to DOLCE's <font face="courier">perdurant</font>. This inconsistency is a result of the OWL <font face="courier">DisjointClasses</font> class axiom. In this equivalence relation, GFO's <font face="courier">Process</font> is disjoint to a superclass of DOLCE's <font face="courier">process</font>, hence the two classes cannot be equivalent.</li><br>
+
+<li><strong>FunctionalParticipation:<font face="courier">situation</font> - GFO:<font face="courier">Situation</font>:</strong> DOLCE's <font face="courier">situation</font> is equivalent to DOLCE's <font face="courier">non-agentive-social-object</font>. DOLCE's <font face="courier">non-agentive-social-object</font> is a subclass of DOLCE's <font face="courier">non-physical-object</font>. DOLCE's <font face="courier">non-physical-object</font> is a subclass of DOLCE's <font face="courier">non-physical-endurant</font>. DOLCE's <font face="courier">arbitrary-sum</font> is disjoint to DOLCE's <font face="courier">non-physical-endurant</font>. DOLCE's <font face="courier">arbitrary-sum</font> is equivalent to GFO's <font face="courier">Configuration</font>. GFO's <font face="courier">Situation</font> is a subclass of GFO's <font face="courier">Configuration</font>. This inconsistency is a result of the OWL <font face="courier">DisjointClasses</font> class axiom. In this equivalence relation, both DOLCE's <font face="courier">situation</font> and GFO's <font face="courier">Situation</font> are subclasses of two classes that are disjoint, hence the two classes cannot be equivalent.</li><br>
+
+<li><strong>FunctionalParticipation:<font face="courier">concept</font> - GFO:<font face="courier">Concept</font>:</strong> GFO's <font face="courier">Concept</font> is a subclass of GFO's <font face="courier">Category</font>. DOLCE's <font face="courier">concept</font> is a subclass of DOLCE's <font face="courier">endurant</font>. DOLCE's <font face="courier">endurant</font> is equivalent to GFO's <font face="courier">Presential</font>. GFO's <font face="courier">Presential</font> is a subclass of GFO's <font face="courier">Individual</font>. GFO's <font face="courier">Category</font> is disjoint to GFO's <font face="courier">Individual</font>. This inconsistency is a result of the OWL <font face="courier">DisjointClasses</font> class axiom. In this equivalence relation, both DOLCE's <font face="courier">concept</font> and GFO's <font face="courier">Concept</font> are subclasses of two classes that are disjoint, hence the two classes cannot be equivalent.</li><br>
+
+<li><strong>FunctionalParticipation:<font face="courier">role</font> - GFO:<font face="courier">Role</font>:</strong> GFO's <font face="courier">Processual_role</font> is a subclass of GFO's <font face="courier">Occurrent</font>. GFO's <font face="courier">Processual_role</font> is a subclass of GFO's <font face="courier">Role</font>. DOLCE's <font face="courier">role</font> is a subclass of DOLCE's <font face="courier">endurant</font>. DOLCE's <font face="courier">endurant</font> is equivalent to GFO's <font face="courier">Presential</font>. GFO's <font face="courier">Occurrent</font> is disjoint to GFO's <font face="courier">Presential</font>. This inconsistency is a result of the OWL <font face="courier">DisjointClasses</font> class axiom. In this equivalence relation, DOLCE's <font face="courier">role</font> is a subclass of GFO's <font face="courier">Presential</font>, and GFO's <font face="courier">Role</font> is a superclass of <font face="courier">Occurrent</font>'s subclass, with <font face="courier">Presential</font> and <font face="courier">Occurrent</font> being disjoint, hence the two classes cannot be equivalent.</li><br>
+
+<li><strong>DOLCE-Lite:<font face="courier">part</font> - GFO:<font face="courier">abstract_has_part</font>:</strong> The domain and range for DOLCE's <font face="courier">part</font> is <font face="courier">particular</font>. The domain and range for GFO's <font face="courier">abstract_has_part</font> is <font face="courier">Item</font>. GFO's <font face="courier">Category</font> is disjoint to <font face="courier">Individual</font>. GFO's <font face="courier">Item</font> is equivalent to <font face="courier">Category</font>. DOLCE's <font face="courier">particular</font> is equivalent to <font face="courier">Individual</font>. This inconsistency is a result of the OWL <font face="courier">DisjointClasses</font> class axiom. In this equivalence relation, DOLCE's <font face="courier">particular</font> is disjoint to GFO's <font face="courier">Item</font>, due to other equivalence relations in the ontologies, causing the domain and range restrictions of DOLCE and GFO to conflict for this relation.</li><br>
+
+<li><strong>DOLCE-Lite:<font face="courier">part-of</font> - GFO:<font face="courier">abstract_part_of</font>:</strong> This inconsistency is similar to the above inconsistency, having the same root cause. The domain and range for DOLCE's <font face="courier">part-of</font> is <font face="courier">particular</font>. The domain and range for GFO's <font face="courier">abstract_part_of</font> is <font face="courier">Item</font>. GFO's <font face="courier">Category</font> is disjoint to <font face="courier">Individual</font>. GFO's <font face="courier">Item</font> is equivalent to <font face="courier">Category</font>. DOLCE's <font face="courier">particular</font> is equivalent to <font face="courier">Individual</font>. This inconsistency is a result of the OWL <font face="courier">DisjointClasses</font> class axiom. In this equivalence relation, DOLCE's <font face="courier">particular</font> is disjoint to GFO's <font face="courier">Item</font>, due to other equivalence relations in the ontologies, causing the domain and range restrictions of DOLCE and GFO to conflict for this relation.</li><br>
+
+<li><strong>DOLCE-Lite:<font face="courier">generic-dependent</font> - GFO:<font face="courier">necessary_for</strong>:</font> This inconsistency is similar to the above inconsistency, having the same root cause. The domain and range for DOLCE's <font face="courier">generic-dependent</font> is <font face="courier">particular</font>. The domain and range for GFO's <font face="courier">necessary_for</font> is <font face="courier">Item</font>. GFO's <font face="courier">Category</font> is disjoint to <font face="courier">Individual</font>. GFO's <font face="courier">Item</font> is equivalent to <font face="courier">Category</font>. DOLCE's <font face="courier">particular</font> is equivalent to <font face="courier">Individual</font>. This inconsistency is a result of the OWL <font face="courier">DisjointClasses</font> class axiom. In this equivalence relation, DOLCE's <font face="courier">particular</font> is disjoint to GFO's <font face="courier">Item</font>, due to other equivalence relations in the ontologies, causing the domain and range restrictions of DOLCE and GFO to conflict for this relation.</li><br>
+
+<li><strong>DOLCE-Lite:<font face="courier">generically-dependent-on</font> - GFO:<font face="courier">depends_on</strong>:</font> This inconsistency is similar to the above inconsistency, having the same root cause. The domain and range for DOLCE's <font face="courier">generically-dependent-on</font> is <font face="courier">particular</font>. The domain and range for GFO's <font face="courier">depends_on</font> is <font face="courier">Item</font>. GFO's <font face="courier">Category</font> is disjoint to <font face="courier">Individual</font>. GFO's <font face="courier">Item</font> is equivalent to <font face="courier">Category</font>. DOLCE's <font face="courier">particular</font> is equivalent to <font face="courier">Individual</font>. This inconsistency is a result of the OWL <font face="courier">DisjointClasses</font> class axiom. In this equivalence relation, DOLCE's <font face="courier">particular</font> is disjoint to GFO's <font face="courier">Item</font>, due to other equivalence relations in the ontologies, causing the domain and range restrictions of DOLCE and GFO to conflict for this relation.</li><br>
+
+<li><strong>DOLCE-Lite:<font face="courier">proper-part</font> - GFO:<font face="courier">has_proper_part</font>:</strong> The domain and range for DOLCE's <font face="courier">proper-part</font> is <font face="courier">particular</font>. GFO's <font face="courier">proper-part</font> is a subproperty of its <font face="courier">has_part</font>. The domain and range for GFO's <font face="courier">has_part</font> is <font face="courier">Concrete</font>, therefore the domain and range of GFO's <font face="courier">has_proper_part</font> is <font face="courier">Concrete</font>. DOLCE's <font face="courier">particular</font> is equivalent to GFO's <font face="courier">Individual</font>. GFO's <font face="courier">Abstract</font> is a subclass of its <font face="courier">Individual</font>. GFO's <font face="courier">Abstract</font> is disjoint to <font face="courier">Concrete</font>. This inconsistency is a result of the OWL <font face="courier">DisjointClasses</font> class axiom. In this equivalence relation, GFO's <font face="courier">Concrete</font> is disjoint to a subclass of DOLCE's <font face="courier">particular</font>, causing the domain and range restrictions of DOLCE and GFO to conflict for this relation.</li><br>
+
+<li><strong>DOLCE-Lite:<font face="courier">proper-part-of</font> - GFO:<font face="courier">proper_part_of</font>:</strong> This inconsistency is similar to the above inconsistency, having the same root cause. The domain and range for DOLCE's <font face="courier">proper-part-of</font> is <font face="courier">particular</font>. GFO's <font face="courier">proper-part-of</font> is a subproperty of its <font face="courier">part_of</font>. The domain and range for GFO's <font face="courier">has_part</font> is <font face="courier">Concrete</font>, therefore the domain and range of GFO's <font face="courier">has_proper_part</font> is <font face="courier">Concrete</font>. DOLCE's <font face="courier">particular</font> is equivalent to GFO's <font face="courier">Individual</font>. GFO's <font face="courier">Abstract</font> is a subclass of its <font face="courier">Individual</font>. GFO's <font face="courier">Abstract</font> is disjoint to <font face="courier">Concrete</font>. This inconsistency is a result of the OWL <font face="courier">DisjointClasses</font> class axiom. In this equivalence relation, GFO's <font face="courier">Concrete</font> is disjoint to a subclass of DOLCE's <font face="courier">particular</font>, causing the domain and range restrictions of DOLCE and GFO to conflict for this relation.</li><br>
+
+<li><strong>DOLCE-Lite:<font face="courier">generic-constituent</font> - GFO:<font face="courier">has_constituent_part</font>:</strong> The domain for DOLCE's <font face="courier">generic-constituent</font> is <font face="courier">particular</font>. The domain for GFO's <font face="courier">has_constituent_part</font> is <font face="courier">Configuration</font>. GFO's <font face="courier">Concrete</font> is a subclass of <font face="courier">Individual</font>. GFO's <font face="courier">Individual</font> is equivalent to DOLCE's <font face="courier">particular</font>. GFO's <font face="courier">Configuration</font> is a subclass of its <font face="courier">Presential</font>. GFO's <font face="courier">Presential</font> is disjoint to <font face="courier">Occurrent</font>. GFO's <font face="courier">Occurrent</font> is a subclass of <font face="courier">Concrete</font>. This inconsistency is a result of the OWL <font face="courier">DisjointClasses</font> class axiom. In this equivalence relation, GFO's <font face="courier">Configuration</font>'s superclass is disjoint to a subclass of DOLCE's <font face="courier">particular</font>, causing the domain restrictions of DOLCE and GFO to conflict for this relation.</li><br>
+
+<li><strong>DOLCE-Lite:<font face="courier">generic-constituent-of</font> - GFO:<font face="courier">constituent_part_of</font>:</strong> This inconsistency is similar to the above inconsistency, having the same root cause. The domain and range for DOLCE's <font face="courier">generic-constituent-of</font> is <font face="courier">particular</font>. GFO's <font face="courier">constituent_part_of</font> is a subproperty of its <font face="courier">has_part</font>. The domain and range for GFO's <font face="courier">has_part</font> is <font face="courier">Concrete</font>, therefore the domain and range of GFO's <font face="courier">constituent_part_of</font> is <font face="courier">Concrete</font>. DOLCE's <font face="courier">particular</font> is equivalent to GFO's <font face="courier">Individual</font>. GFO's <font face="courier">Abstract</font> is a subclass of its <font face="courier">Individual</font>. GFO's <font face="courier">Abstract</font> is disjoint to <font face="courier">Concrete</font>. This inconsistency is a result of the OWL <font face="courier">DisjointClasses</font> class axiom. In this equivalence relation, GFO's <font face="courier">Concrete</font> is disjoint to a subclass of DOLCE's <font face="courier">particular</font>, causing the domain and range restrictions of DOLCE and GFO to conflict for this relation.</li><br>
+
+<li><strong>DOLCE-Lite:<font face="courier">generic-location</font> - GFO:<font face="courier">occupies</font>:</strong> The range for DOLCE's <font face="courier">generic-location</font> is <font face="courier">particular</font>. The range for GFO's <font face="courier">occupies</font> is <font face="courier">Space</font>. GFO's <font face="courier">Space</font> is a subclass of <font face="courier">Space_time</font>. GFO's <font face="courier">Space_time</font> is disjoint to its <font face="courier">Abstract</font>. GFO's <font face="courier">Abstract</font> is a subclass of <font face="courier">Individual</font>. GFO's <font face="courier">Individual</font> is equivalent to <font face="courier">particular</font>. This inconsistency is a result of the OWL <font face="courier">DisjointClasses</font> class axiom. In this equivalence relation, GFO's <font face="courier">Space</font>'s superclass is disjoint to a subclass of DOLCE's <font face="courier">particular</font>, causing the range restrictions of DOLCE and GFO to conflict for this relation.</li><br>
+
+<li><strong>DOLCE-Lite:<font face="courier">generic-location-of</font> - GFO:<font face="courier">occupied_by</font>:</strong> The domain for DOLCE's <font face="courier">generic-location-of</font> is <font face="courier">particular</font>. The domain for GFO's <font face="courier">occupied_by</font> is <font face="courier">Space</font>. GFO's <font face="courier">Space</font> is a subclass of <font face="courier">Space_time</font>. GFO's <font face="courier">Space_time</font> is disjoint to its <font face="courier">Abstract</font>. GFO's <font face="courier">Abstract</font> is a subclass of <font face="courier">Individual</font>. GFO's <font face="courier">Individual</font> is equivalent to <font face="courier">particular</font>. This inconsistency is a result of the OWL <font face="courier">DisjointClasses</font> class axiom. In this equivalence relation, GFO's <font face="courier">Space</font>'s superclass is disjoint to a subclass of DOLCE's <font face="courier">particular</font>, causing the domain restrictions of DOLCE and GFO to conflict for this relation.</li><br>
+
+<li><strong>DOLCE-Lite:<font face="courier">has-quale</font> - GFO:<font face="courier">has_property_value</font>:</strong> The range for DOLCE's <font face="courier">has-quale</font> is <font face="courier">quale</font>. The range for GFO's <font face="courier">has_property_value</font> is <font face="courier">property_value</font>. DOLCE's <font face="courier">quale</font> is a subclass of DOLCE's <font face="courier">abstract</font>. DOLCE's <font face="courier">abstract</font> is equivalent to GFO's <font face="courier">Abstract</font>. GFO's <font face="courier">Property_value</font> is a subclass of GFO's <font face="courier">Concrete</font>. GFO's <font face="courier">Concrete</font> is disjoint to GFO's <font face="courier">Abstract</font>. This inconsistency is a result of the OWL <font face="courier">DisjointClasses</font> class axiom. In this equivalence relation, both DOLCE's <font face="courier">quale</font> and GFO's <font face="courier">Property_value</font> are subclasses of two classes that are disjoint, causing the range restrictions of DOLCE and GFO to conflict for this relation.</li><br>
+
+<li><strong>DOLCE-Lite:<font face="courier">quale-of</font> - GFO:<font face="courier">value_of</font>:</strong> This inconsistency is similar to the above inconsistency, having the same root cause. The domain for DOLCE's <font face="courier">quale-of</font> is <font face="courier">quale</font>. The domain for GFO's <font face="courier">value_of</font> is <font face="courier">property_value</font>. DOLCE's <font face="courier">quale</font> is a subclass of DOLCE's <font face="courier">abstract</font>. DOLCE's <font face="courier">abstract</font> is equivalent to GFO's <font face="courier">Abstract</font>. GFO's <font face="courier">Property_value</font> is a subclass of GFO's <font face="courier">Concrete</font>. GFO's <font face="courier">Concrete</font> is disjoint to GFO's <font face="courier">Abstract</font>. This inconsistency is a result of the OWL <font face="courier">DisjointClasses</font> class axiom. In this equivalence relation, both DOLCE's <font face="courier">quale</font> and GFO's <font face="courier">Property_value</font> are subclasses of two classes that are disjoint, causing the domain restrictions of DOLCE and GFO to conflict for this relation.</li><br>
+
+<li><strong>DOLCE-Lite:<font face="courier">q-present-at</font> - GFO:<font face="courier">exists_at</font>:</strong> The domain for DOLCE's <font face="courier">q-present-at</font> is <font face="courier">physical-quality</font>. The domain for GFO's <font face="courier">exists_at</font> is <font face="courier">Presential</font>. DOLCE's <font face="courier">physical-quality</font> is a subclass of DOLCE's <font face="courier">quality</font>. DOLCE's <font face="courier">quality</font> is disjoint to its <font face="courier">endurant</font>. DOLCE's <font face="courier">endurant</font> is equivalent to GFO's <font face="courier">Presential</font>. This inconsistency is a result of the OWL <font face="courier">DisjointClasses</font> class axiom. In this equivalence relation, the superclass of DOLCE's <font face="courier">physical-quality</font> is disjoint to GFO's <font face="courier">Presential</font>, causing the domain restrictions of DOLCE and GFO to conflict for this relation.</li><br>
+
+<li><strong>DOLCE-Lite:<font face="courier">participant</font> - GFOBasic:<font face="courier">has_participant</font>:</strong> The domain for DOLCE's <font face="courier">participant</font> is <font face="courier">perdurant</font>. The domain for GFO's <font face="courier">has_participant</font> is <font face="courier">Processual_structure</font>. GFO's <font face="courier">Occurrent</font> is disjoint to its <font face="courier">Process</font>. GFO's <font face="courier">Process</font> is a subclass of its <font face="courier">Processual_structure</font>. DOLCE's <font face="courier">perdurant</font> is equivalent to GFO's <font face="courier">Occurrent</font>. This inconsistency is a result of the OWL <font face="courier">DisjointClasses</font> class axiom. In this equivalence relation, DOLCE's <font face="courier">perdurant</font> is disjoint to a subclass of GFO's <font face="courier">Processual_structure</font>, causing the domain restrictions of DOLCE and GFO to conflict for this relation.</li><br>
+
+<li><strong>DOLCE-Lite:<font face="courier">participant-in</font> - GFOBasic:<font face="courier">participates_in</font>:</strong> This inconsistency is similar to the above inconsistency, having the same root cause. The range for DOLCE's <font face="courier">participant-in</font> is <font face="courier">perdurant</font>. The range for GFO's <font face="courier">participates_in</font> is <font face="courier">Processual_structure</font>. GFO's <font face="courier">Occurrent</font> is disjoint to its <font face="courier">Process</font>. GFO's <font face="courier">Process</font> is a subclass of its <font face="courier">Processual_structure</font>. DOLCE's <font face="courier">perdurant</font> is equivalent to GFO's <font face="courier">Occurrent</font>. This inconsistency is a result of the OWL <font face="courier">DisjointClasses</font> class axiom. In this equivalence relation, DOLCE's <font face="courier">perdurant</font> is disjoint to a subclass of GFO's <font face="courier">Processual_structure</font>, causing the range restrictions of DOLCE and GFO to conflict for this relation.</li><br>
+
+</ol>
+		
+                     <h2>Logical Inconsistencies between BFO and GFO</h2>
+
+<ol>
+
+<li><strong>BFO:<font face="courier">Role</font> - GFO:<font face="courier">Role</font>:</strong> GFO's <font face="courier">Processual_role</font> is a subclass of <font face="courier">Role</font> and <font face="courier">Process</font>. GFO's <font face="courier">Process</font> is a subclass of its <font face="courier">Occurrent</font>. GFO's <font face="courier">Occurrent</font> is equivalent to BFO's <font face="courier">Occurrent</font>. BFO's <font face="courier">role</font> is a subclass of its <font face="courier">Continuant</font>. BFO's <font face="courier">Continuant</font> is disjoint to its <font face="courier">Occurrent</font>. This inconsistency is a result of the OWL <font face="courier">DisjointClasses</font> class axiom. In this equivalence relation, GFO's <font face="courier">Role</font> is a superclass of <font face="courier">Processual_role</font>, which is a subclass of <font face="courier">Occurrent</font>, and BFO's <font face="courier">Role</font> is a subclass of <font face="courier">Continuant</font> with <font face="courier">Occurrent</font> and <font face="courier">Continuant</font> being disjoint, hence the two classes cannot be equivalent.</li><br>
+
+<li><strong>BFO:<font face="courier">TemporalRegion</font> - GFO:<font face="courier">Temporal_region</font>:</strong> BFO's <font face="courier">TemporalRegion</font> is a subclass of BFO's <font face="courier">Occurrent</font>. BFO's <font face="courier">Occurrent</font> is equivalent to GFO's <font face="courier">Occurrent</font>. GFO's <font face="courier">Occurrent</font> is a subclass of GFO's <font face="courier">Concrete</font>. GFO's <font face="courier">Space_Time</font> is disjoint with GFO's <font face="courier">Concrete</font>. GFO's <font face="courier">Temporal_Region</font> is a subclass of GFO's <font face="courier">Space_Time</font>. This inconsistency is a result of the OWL <font face="courier">DisjointClasses</font> class axiom. In this equivalence relation, both BFO's <font face="courier">TemporalRegion</font> and GFO's <font face="courier">Temporal_region</font> are subclasses of two classes that are disjoint, hence the two classes cannot be equivalent.</li><br>
+
+<li><strong>BFO:<font face="courier">MaterialEntity</font> - GFO:<font face="courier">Material_persistant</font></strong>: GFO's <font face="courier">Material_persistant</font> is a subclass of its <font face="courier">Universal</font>. GFO's <font face="courier">Universal</font> is a subclass of <font face="courier">instantiated_by</font> some GFO's <font face="courier">Item</font>. BFO's <font face="courier">Material_entity</font> is a subclass of its <font face="courier">IndependentContinuant</font>. BFO's <font face="courier">IndependentContinuant</font> is equivalent to GFO's <font face="courier">Presential</font>. GFO's <font face="courier">Presential</font> is a subclass of its <font face="courier">Individual</font>. GFO's <font face="courier">Individual</font> is a subclass of the complement of <font face="courier">instantiated_by</font> some GFO's <font face="courier">Item</font>. This inconsistency is a result of the OWL <font face="courier">Complement</font> class constructor. In this equivalence relation, GFO's <font face="courier">Material_persistant</font> is a subclass of its <font face="courier">instantiated_by</font> some GFO's <font face="courier">Item</font> while BFO's <font face="courier">MaterialEntity</font> is a subclass of the complement of that class, hence the two classes cannot be equivalent.</li><br>
+
+<li><strong>BFO:<font face="courier">DependentContinuant</font> - GFO:<font face="courier">Dependent</font></strong>: GFO's <font face="courier">Entity</font> is equivalent to its <font face="courier">Item</font> or <font face="courier">Set</font>. GFO's <font face="courier">Category</font> is a subclass of <font face="courier">Item</font>. GFO's <font face="courier">Category</font> is disjoint to its <font face="courier">Individual</font>. GFO's <font face="courier">Dependent</font> is a subclass of <font face="courier">Individual</font>. GFO's <font face="courier">Entity</font> is equivalent to BFO's <font face="courier">Entity</font>. BFO's <font face="courier">Entity</font> is equivalent to its <font face="courier">Occurrent</font> or <font face="courier">Continuant</font>. BFO's <font face="courier">Continuant</font> is equivalent to its <font face="courier">IndependentContinuant</font> or <font face="courier">DependentContinuant</font> or <font face="courier">SpatialRegion</font>. This inconsistency is a result of the OWL <font face="courier">DisjointClasses</font> class axiom. In this equivalence relation, BFO's <font face="courier">DependentContinuant</font> is a superclass of GFO's <font face="courier">Category</font>, and GFO's <font face="courier">Dependent</font> is a subclass of GFO's <font face="courier">Individual</font> with <font face="courier">Category</font> and <font face="courier">Individual</font> being disjoint, hence the two classes cannot be equivalent.</li><br>
+
+<li><strong>BFO:<font face="courier">Process</font> - GFOBasic:<font face="courier">Process</font>:</strong> BFO's <font face="courier">Process</font> is a subclass of BFO's <font face="courier">Occurrent</font>. BFO's <font face="courier">Occurrent</font> is equivalent to GFO's <font face="courier">Occurrent</font>. GFO's <font face="courier">Occurrent</font> is disjoint to GFO's <font face="courier">Process</font>. This inconsistency is a result of the OWL <font face="courier">DisjointClasses</font> class axiom. In this equivalence relation, GFO's <font face="courier">Process</font> is disjoint to a superclass of BFO's <font face="courier">process</font>, hence the two classes cannot be equivalent.</li><br>
+
+<li><strong>BFORO:<font face="courier">located_in</font> - GFO:<font face="courier">occupies</font>:</strong> The range of BFO's <font face="courier">located_in</font> is <font face="courier">Continuant</font>. The range of GFO's <font face="courier">occupies</font> is <font face="courier">Space</font>. GFO's <font face="courier">Presential</font> is a subclass of <font face="courier">Concrete</font>. GFO's <font face="courier">Concrete</font> is disjoint with its <font face="courier">Space_time</font>. GFO's <font face="courier">Presential</font> is equivalent to BFO's <font face="courier">IndependentContinuant</font>. BFO's <font face="courier">IndependentContinuant</font> is a subclass of its <font face="courier">Continuant</font>. GFO's <font face="courier">Space</font> is a subclass of its <font face="courier">Space_time</font>. This inconsistency is a result of the OWL <font face="courier">DisjointClasses</font> class axiom. In this equivalence relation, GFO's <font face="courier">Space</font> is a subclass of GFO's <font face="courier">Space_time</font>, and, by equivalence BFO's <font face="courier">Continuant</font> is a superclass of <font face="courier">Presential</font>, which is <font face="courier">Concrete</font>'s subclass, with <font face="courier">Space_time</font> and <font face="courier">Concrete</font> being disjoint, causing the range restrictions of BFO and GFO to conflict for this relation.</li><br>
+
+<li><strong>BFORO:<font face="courier">location_of</font> and GFO:<font face="courier">occupied_by</font>:</strong> The range of BFORO's <font face="courier">location_of</font> is <font face="courier">Continuant</font>. The range of GFO's <font face="courier">occupied_by</font> is <font face="courier">Presential</font>. BFO's <font face="courier">SpatialRegion</font> is a subclass of <font face="courier">Continuant</font>. BFO's <font face="courier">SpatialRegion</font> is disjoint to its <font face="courier">IndependentContinuant</font>. BFO's <font face="courier">IndependentContinuant</font> is equivalent to GFO's <font face="courier">Presential</font>. This inconsistency is a result of the OWL <font face="courier">DisjointClasses</font> class axiom. In this equivalence relation, GFO's <font face="courier">Presential</font> is disjoint to a subclass of BFO's <font face="courier">Continuant</font>, causing the range restrictions of BFO and GFO to conflict for this relation.</li><br>
+
+<li><strong>BFORO:<font face="courier">has_participant</font> - GFO:<font face="courier">has_participant</font>:</strong> The range for BFO's <font face="courier">has_participant</font> is <font face="courier">Continuant</font>. The range for GFO's <font face="courier">has_participant</font> is <font face="courier">Presential</font>. BFO's <font face="courier">SpatialRegion</font> is a subclass of <font face="courier">Continuant</font>. BFO's <font face="courier">SpatialRegion</font> is disjoint to its <font face="courier">IndependentContinuant</font>. BFO's <font face="courier">IndependentContinuant</font> is equivalent to GFO's <font face="courier">Presential</font>. This inconsistency is a result of the OWL <font face="courier">DisjointClasses</font> class axiom. In this equivalence relation, GFO's <font face="courier">Presential</font> is disjoint to a subclass of BFO's <font face="courier">Continuant</font>, causing the range restrictions of BFO and GFO to conflict for this relation.</li><br>
+
+<li><strong>BFORO:<font face="courier">has_participant</font> - GFOBasic:<font face="courier">has_participant</strong>:</font> The range for BFO's <font face="courier">has_participant</font> is <font face="courier">Continuant</font>. The range for GFO's <font face="courier">has_participant</font> is the complement of <font face="courier">Space_time_entity</font> and the complement of <font face="courier">Processual_structure</font>. GFO's <font face="courier">Spatial_region</font> is a subclass of its <font face="courier">Space_time_entity</font>. GFO's <font face="courier">Spatial_region</font> is equivalent to BFO's <font face="courier">SpatialRegion</font>. BFO's <font face="courier">SpatialRegion</font> is equivalent to its <font face="courier">Continuant</font>. This inconsistency is a result of the OWL <font face="courier">Complement</font> class constructor. In this equivalence relation, BFO's <font face="courier">Continuant</font> is equivalent to a subclass of GFO's <font face="courier">Space_time_entity</font>, and cannot ever equate to the complement of GFO's <font face="courier">Space_time_entity</font>, causing the range restrictions of BFO and GFO to conflict for this relation.</li><br>
+
+<li><strong>BFORO:<font face="courier">participates_in</font> - GFOBasic:<font face="courier">participates_in</font>:</strong> The range for BFO's <font face="courier">participates_in</font> is <font face="courier">Occurrent</font>. The range for GFO's <font face="courier">participates_in</font> is <font face="courier">Processual_structure</font>. GFO's <font face="courier">Occurrent</font> is disjoint to its <font face="courier">Process</font>. GFO's <font face="courier">Process</font> is a subclass of its <font face="courier">Processual_structure</font>. GFO's <font face="courier">Occurrent</font> is equivalent to BFO's <font face="courier">Occurrent</font>. This inconsistency is a result of the OWL <font face="courier">DisjointClasses</font> class axiom. In this equivalence relation, BFO's <font face="courier">Occurrent</font> is disjoint to a subclass of GFO's <font face="courier">Processual_structure</font>, causing the range restrictions of BFO and GFO to conflict for this relation.</li><br>
+
+</ol>
+
+		</header> <!-- .entry-header -->
+
+		<div class="entry-content">
+			
+
+
+		 
+		</div> <!-- .entry-content -->
+
+		<footer class="entry-meta">
+			Posted on <time class="entry-date" datetime="2013-02-14" pubdate>February 14 2013</time>
+			by <span class="author vcard"><a class="url fn n" href="#" title="View all posts by Author" rel="author">Zubeida Casmod Khan</a></span> <br>
+            Edited on <time class="entry-date" datetime="2013-02-16" pubdate>February 16 2013</time>
+			by <span class="author vcard"><a class="url fn n" href="#" title="View all posts by Author" rel="author">Zubeida Casmod Khan</a></span>
+
+
+			
+		</footer>
+
+	</article> <!-- .post.hentry --><!-- .post.hentry -->
+
+</div> <!-- #content -->
+
+<!--<div id="sidebar" role="complementary" class="span4">
+
+	<!-- Non-working search form -->
+	<!--<form role="search" action="#" class="searchform">
+		<label class="assistive-text" for="s">Search for:</label>
+		<input type="search" name="s" id="s" results="10" placeholder="Search..." value="">
+		<input type="submit" value="Search">
+	</form> <!-- .searchform.widget -->
+<!--
+	 <aside class="widget">
+		<h3 class="widget-title">Sidebar heading</h3>
+
+		<ul>
+			<li><a href="#">Li element</a></li>
+			<li><a href="#">Li element</a></li>
+			<li><a href="#">Li element</a></li>
+			<li>Li element</li>
+			<li><a href="#">Li element</a></li>
+		</ul>
+	</aside> <!-- .widget -->
+
+	<!--<aside class="widget">
+		<h3 class="widget-title">Widget</h3>
+
+		<p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life.</p>
+		<p>One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.</p>
+	</aside> <!-- .widget -->
+
+<!--</div> <!-- #sidebar -->
+</div> <!-- #main -->
+
+	<footer id="footer" role="contentinfo">
+		<!-- You're free to remove the credit li nk to Jayj.dk in the footer, but please, please leave it there :) -->
+		
+	</footer> <!-- #footer -->
+
+	<!-- Grab Google CDN's jQuery, with a protocol relative URL; fall back to local if offline -->
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+	<script>window.jQuery || document.write('<script src="js/jquery-1.7.2.min.js"><\/script>')</script>
+
+	<!-- Load custom scripts -->
+	<script src="js/script.js"></script>
+</body>
+</html>

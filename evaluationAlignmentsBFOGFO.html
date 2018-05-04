@@ -1,0 +1,452 @@
+<!DOCTYPE html>
+<!-- Consider specifying the language of your content by adding the `lang` attribute to <html> -->
+<!--[if lt IE 7]> <html class="no-js ie6"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+<head>
+
+	<meta charset="utf-8">
+
+	<!-- Always force latest IE rendering engine & Chrome Frame -->
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+	<!-- Put your title here! -->
+	<title></title>
+
+	<meta name="description" content="">
+
+	 <!-- Mobile viewport optimized: h5bp.com/viewport -->
+	<meta name="viewport" content="width=device-width">
+
+	<link href="style.css" rel="stylesheet">
+
+	<!-- Load Open Sans and Merriweather from Google Fonts
+		For optimal performance, customize it to load the styles you need:
+		http://goo.gl/QufgJ
+	-->
+	<link href="//fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,700|Merriweather:400,700,900" rel="stylesheet">
+
+	<!-- All JavaScript at the bottom, except for Modernizr
+		Modernizr enables HTML5 elements & feature detects; It includes Respond, a polyfill for min/max-width CSS3 Media Queries
+		For optimal performance, use a custom Modernizr build: www.modernizr.com/download/ -->
+	<script src="js/modernizr-2.6.1.min.js"></script>
+</head>
+
+<body>
+
+	<!-- Prompt IE 6 and 7 users to install Chrome Frame:		chromium.org/developers/how-tos/chrome-frame-getting-started -->
+	<!--[if lt IE 8]>
+		<p class="chromeframe alert alert-warning">Your browser is <em>ancient!</em> <a href="http://browsehappy.com/">Upgrade to a different browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">install Google Chrome Frame</a> to experience this site.</p>
+	<![endif]-->
+
+	<header id="master-header" class="clearfix" role="banner">
+
+		<hgroup>
+			<h1 id="site-title"><a href="home.html" title="ROMULUS   Repository of Ontologies for MULtiple USes
+">ROMULUS : Repository of Ontologies for MULtiple USes</a></h1>
+			<h2 id="site-description"> A repository of foundational ontologies. </h2>
+		</hgroup>
+
+	</header> <!-- #master-header -->
+
+<div id="main" class="row clearfix">
+
+	<!-- Main navigation -->
+	<nav class="main-navigation clearfix span12" role="navigation">
+		<h3 class="assistive-text">Main menu</h3>
+		<ul>
+			<li><a href="home.html">Home</a></li>
+			
+           
+            <li><a href="browseOntologies.html">Browse Ontologies</a></li>
+            <li>
+				<a href="ontologyComparison.html">Ontology Comparison</a>
+                 <ul class="sub-menu">
+					<li><a href="ontologicalCommitments.html">Ontological Commitments</a></li>
+					<li><a href="representationLanguages.html">Representation Languages</a></li>
+                    <li><a href="softwareEngineeringProperties.html">Software Engineering properties</a></li>
+                    <li><a href="subjectDomains.html">Subject Domains</a></li>
+                    <li><a href="applications.html">Applications</a></li>
+			  </ul>
+                	</li>
+              <li><a href="ontologyAxiomatisation.html">Ontology Verbalisation</a>
+              <ul class="sub-menu">
+            <li><a href="DLView.html">Description logic view</a></li>
+             <li><a href="NLView.html">Natural language view</a></li>
+            </ul>
+            
+            </li>
+              <li><a href="ontologyMediation.html">Ontology Mediation</a>
+             <ul class="sub-menu">				<li><a href="ontologyAlignment.html">Alignment</a></li>
+				<li><a href="ontologyAlignmentMetadata.html">Alignment Metadata</a></li>
+				      <li><a href="ontologyMapping.html">Mapping</a></li>
+                                  <li><a href="ontologyMerging.html">Merging</a></li>                                        <li><a href="ontologyMediationSearch.html">Search</a></li>
+<li><a href="FOinterchange.html">Ontology Interchangeability Method</a></li>
+<li><a href="ontologyInterchange.html">Ontology Interchangeability Tool</a></li>
+                                  <li><a href="mappingIncon.html">Mapping Inconsistencies</a></li>			 
+            </ul>
+            </li>            <li><a href="ontologyMetadata.html">Ontology Metadata</a>
+<ul class="sub-menu">
+<li><a href="ontologyMetadataSearch.html">Ontology Metadata Search</a></li>
+</ul>
+</li>
+            <li><a href="downloads.html">Downloads</a>
+            
+            </li>
+            <li><a href="ontologySelection.html">Ontology Selection</a></li>
+<li><a href="communitySubmission.html">Community</a></li>
+            <li class="current"><a href="evaluation.html">Evaluate ROMULUS</a>
+            <ul class="sub-menu">
+					<li><a href="evaluationPart1.html">Evaluate functional features</a></li>
+					<li><a href="evaluationPart2.html">Evaluate ontological alignments</a>
+                    
+                    <ul class = "sub-menu">
+                    <li><a href ="evaluationAlignmentsDOLCEBFO.html">DOLCE - BFO</a></li>
+                    <li><a href ="evaluationAlignmentsGFODOLCE.html">GFO - DOLCE</a></li>
+                    <li class = "current"><a href ="evaluationAlignmentsBFOGFO.html">BFO - GFO</a></li>                    
+                    </ul> <!-- Close d-b ul-->
+                    
+                    </li> <!-- Close eval onto alignm-->
+			  </ul><!-- Close part l/2 ul-->
+            
+        </li> <!-- Close first evaluation li -->
+        
+		
+  <li><a href="contact.html">Contact</a></li>
+	  
+      </ul>
+            
+	</nav> <!-- #main-navigation -->
+
+<div id="content" role="main" class="span12">
+
+	<article class="post hentry">
+
+		<header class="entry-header">
+			<h1 class="entry-title">
+				<a href="#" title="Post Heading" rel="bookmark">Aligning BFO and GFO</a>
+			</h1>
+		</header> <!-- .entry-header -->
+
+		<div class="entry-content">
+        <h4> Philosophical Notions behind BFO and GFO</h4>
+<p><b>BFO: </b>It is a realist in a sense as it aims to captures the world exactly as is. As such, abstract entities are not included. BFO is an ontology of universals. Universals are entities that can be instantiated. </p>
+<p><b>GFO: </b>It is descriptive in nature meaning that  ontological categories underlying natural language as
+well as common sense are captured. GFO is an ontology of individuals. Individuals are entities that cannot be instantiated.  </p>
+<form name="input" action="evaluationAlignmentsBFOGFO.php" method="post">
+<table border="5">
+<tr>
+<th></th>
+<th>Entity from BFO</th>
+<th>Entity from GFO</th>
+</tr>
+<tr>
+<th>Alignment 1</th>
+<td bgcolor="#FFCCCC"><strong>Entity</strong></td>
+<td bgcolor="#FFCCCC"><strong>Entity</strong></td>
+</tr>
+<tr>
+<th>Annotation and example of concept</th>
+<td>Entity.</td>
+<td>Everything which exists is called an entity.</td>
+</tr>
+<tr>
+<th>Your choice</th>
+<td colspan="2"><input type="radio" name="a1" value="Agree">Agree &nbsp&nbsp&nbsp&nbsp&nbsp <input type="radio" name="a1" value="PartiallyAgree"> Partially Agree &nbsp&nbsp&nbsp&nbsp&nbsp <input type="radio" name="a1" value="Disagree">Disagree &nbsp&nbsp&nbsp&nbsp&nbsp <input type="radio" name="a1" value="DontKnow"> I don't know &nbsp&nbsp&nbsp&nbsp&nbsp <input type="radio" name="a1" value="Skip" checked>Skip &nbsp&nbsp&nbsp&nbsp&nbsp </td>
+</tr>
+<tr><td height = "50" colspan ="3"></td></tr>
+
+<tr>
+<th>Alignment 2</th>
+<td bgcolor="#FFCCCC"><strong>IndependentContinuant</strong></td>
+<td bgcolor="#FFCCCC"><strong>Persistant</strong></td>
+</tr>
+<tr>
+<th>Annotation and example of concept</th>
+<td>A continuant is an entity [bfo:Entity] that exists in full at any time in which it exists at all, persists through time while maintaining its identity and has no temporal parts. An independent continuant is a continuant [snap:Continuant] that is a bearer of quality [snap:Quality] and realizable entity [snap:RealizableEntity] entities, in which other entities inhere and which itself cannot inhere in anything. Examples: an organism, a heart, a leg, a person, a symphony orchestra, a chair, the bottom right portion of a human torso, the lawn and atmosphere in front of our building.</td>
+<td>Persistants are GFO's way to capture identity over time. GFO pursues an approach which accounts for persistence by means of a suitable universal whose instances are presentials. Such universals are called persistants. These do not change and they can be used to explain how presentials which have different properties at different times can nevertheless be the same.</td>
+</tr>
+<tr>
+<th>Your choice</th>
+<td colspan="2"><input type="radio" name="a2" value="Agree">Agree &nbsp&nbsp&nbsp&nbsp&nbsp <input type="radio" name="a2" value="PartiallyAgree"> Partially Agree &nbsp&nbsp&nbsp&nbsp&nbsp <input type="radio" name="a2" value="Disagree">Disagree &nbsp&nbsp&nbsp&nbsp&nbsp <input type="radio" name="a2" value="DontKnow"> I don't know &nbsp&nbsp&nbsp&nbsp&nbsp <input type="radio" name="a2" value="Skip" checked>Skip &nbsp&nbsp&nbsp&nbsp&nbsp </td>
+</tr>
+<tr><td height = "50" colspan ="3"></td></tr>
+
+<tr>
+<th>Alignment 3</th>
+<td bgcolor="#FFCCCC"><strong>IndependentContinuant</strong></td>
+<td bgcolor="#FFCCCC"><strong>Presential</strong></td>
+</tr>
+<tr>
+<th>Annotation and example of concept</th>
+<td>A continuant is an entity [bfo:Entity] that exists in full at any time in which it exists at all, persists through time while maintaining its identity and has no temporal parts. An independent continuant is a continuant [snap:Continuant] that is a bearer of quality [snap:Quality] and realizable entity [snap:RealizableEntity] entities, in which other entities inhere and which itself cannot inhere in anything. Examples: an organism, a heart, a leg, a person, a symphony orchestra, a chair, the bottom right portion of a human torso, the lawn and atmosphere in front of our building.</td>
+<td>A presential exists wholly at exactly one time boundary.</td>
+</tr>
+<tr>
+<th>Your choice</th>
+<td colspan="2"><input type="radio" name="a3" value="Agree">Agree &nbsp&nbsp&nbsp&nbsp&nbsp <input type="radio" name="a3" value="PartiallyAgree"> Partially Agree &nbsp&nbsp&nbsp&nbsp&nbsp <input type="radio" name="a3" value="Disagree">Disagree &nbsp&nbsp&nbsp&nbsp&nbsp <input type="radio" name="a3" value="DontKnow"> I don't know &nbsp&nbsp&nbsp&nbsp&nbsp <input type="radio" name="a3" value="Skip" checked>Skip &nbsp&nbsp&nbsp&nbsp&nbsp </td>
+</tr>
+<tr><td height = "50" colspan ="3"></td></tr>
+
+<tr>
+<th>Alignment 4</th>
+<td bgcolor="#FFCCCC"><strong>DependentContinuant</strong></td>
+<td bgcolor="#FFCCCC"><strong>Dependent</strong></td>
+</tr>
+<tr>
+<th>Annotation and example of concept</th>
+<td>Definition: A continuant [snap:Continuant] that is either dependent on one or other independent continuant [snap:IndependentContinuant] bearers or inheres in or is borne by other entities.</td>
+<td>Dependent entities.</td>
+</tr>
+<tr>
+<th>Your choice</th>
+<td colspan="2"><input type="radio" name="a4" value="Agree">Agree &nbsp&nbsp&nbsp&nbsp&nbsp <input type="radio" name="a4" value="PartiallyAgree"> Partially Agree &nbsp&nbsp&nbsp&nbsp&nbsp <input type="radio" name="a4" value="Disagree">Disagree &nbsp&nbsp&nbsp&nbsp&nbsp <input type="radio" name="a4" value="DontKnow"> I don't know &nbsp&nbsp&nbsp&nbsp&nbsp <input type="radio" name="a4" value="Skip" checked>Skip &nbsp&nbsp&nbsp&nbsp&nbsp </td>
+</tr>
+<tr><td height = "50" colspan ="3"></td></tr>
+
+<tr>
+<th>Alignment 5</th>
+<td bgcolor="#FFCCCC"><strong>MaterialEntity</strong></td>
+<td bgcolor="#FFCCCC"><strong>Material_persistant</strong></td>
+</tr>
+<tr>
+<th>Annotation and example of concept</th>
+<td>Definition: An independent continuant [snap:IndependentContinuant] that is spatially extended whose identity is independent of that of other entities and can be maintained through time.</td>
+<td>Material persistants are particular universals whose instances are material structures; they are related to those entities which are called sometimes continuants or objects, as apples, cars or houses. Material persistants capture the phenomenon of persistance through time of a material object. A material persistant P satisfies a number of neccessary conditions. For every material persistant P there exists a process P such that the set of instances of P coincides with the set of process-boundaries of P. This implies the existence of a chronoid c such that for every time-point t of c there exists exactly one instance of P at time point t.</td>
+</tr>
+<tr>
+<th>Your choice</th>
+<td colspan="2"><input type="radio" name="a5" value="Agree">Agree &nbsp&nbsp&nbsp&nbsp&nbsp <input type="radio" name="a5" value="PartiallyAgree"> Partially Agree &nbsp&nbsp&nbsp&nbsp&nbsp <input type="radio" name="a5" value="Disagree">Disagree &nbsp&nbsp&nbsp&nbsp&nbsp <input type="radio" name="a5" value="DontKnow"> I don't know &nbsp&nbsp&nbsp&nbsp&nbsp <input type="radio" name="a5" value="Skip" checked>Skip &nbsp&nbsp&nbsp&nbsp&nbsp </td>
+</tr>
+<tr><td height = "50" colspan ="3"></td></tr>
+
+<tr>
+<th>Alignment 6</th>
+<td bgcolor="#FFCCCC"><strong>Object</strong></td>
+<td bgcolor="#FFCCCC"><strong>Material_object</strong></td>
+</tr>
+<tr>
+<th>Annotation and example of concept</th>
+<td>Definition: A material entity [snap:MaterialEntity] that is a mereological sum of separate object [snap:Object] entities and possesses non-connected boundaries.</td>
+<td></td>
+</tr>
+<tr>
+<th>Your choice</th>
+<td colspan="2"><input type="radio" name="a6" value="Agree">Agree &nbsp&nbsp&nbsp&nbsp&nbsp <input type="radio" name="a6" value="PartiallyAgree"> Partially Agree &nbsp&nbsp&nbsp&nbsp&nbsp <input type="radio" name="a6" value="Disagree">Disagree &nbsp&nbsp&nbsp&nbsp&nbsp <input type="radio" name="a6" value="DontKnow"> I don't know &nbsp&nbsp&nbsp&nbsp&nbsp <input type="radio" name="a6" value="Skip" checked>Skip &nbsp&nbsp&nbsp&nbsp&nbsp </td>
+</tr>
+<tr><td height = "50" colspan ="3"></td></tr>
+
+<tr>
+<th>Alignment 7</th>
+<td bgcolor="#FFCCCC"><strong>ObjectBoundary</strong></td>
+<td bgcolor="#FFCCCC"><strong>Material_boundary</strong></td>
+</tr>
+<tr>
+<th>Annotation and example of concept</th>
+<td> Boundaries are theoretically difficult entities to account for, however the intuitive notion of a physical boundary as a surface of some sort (whether inside or outside of a thing) will generally serve as a good guide for the use of this universal. Examples: the surface of the skin, the surface of the earth, the surface of the interior of the stomach, the outer surface of a cell or cell wall</td>
+<td>A boundary of a material structure.</td>
+</tr>
+<tr>
+<th>Your choice</th>
+<td colspan="2"><input type="radio" name="a7" value="Agree">Agree &nbsp&nbsp&nbsp&nbsp&nbsp <input type="radio" name="a7" value="PartiallyAgree"> Partially Agree &nbsp&nbsp&nbsp&nbsp&nbsp <input type="radio" name="a7" value="Disagree">Disagree &nbsp&nbsp&nbsp&nbsp&nbsp <input type="radio" name="a7" value="DontKnow"> I don't know &nbsp&nbsp&nbsp&nbsp&nbsp <input type="radio" name="a7" value="Skip" checked>Skip &nbsp&nbsp&nbsp&nbsp&nbsp </td>
+</tr>
+<tr><td height = "50" colspan ="3"></td></tr>
+
+<tr>
+<th>Alignment 8</th>
+<td bgcolor="#FFCCCC"><strong>Function</strong></td>
+<td bgcolor="#FFCCCC"><strong>Function</strong></td>
+</tr>
+<tr>
+<th>Annotation and example of concept</th>
+<td>Definition: A realizable entity [snap:RealizableEntity] the manifestation of which is an essentially end-directed activity of a continuant [snap:Continuant] entity in virtue of that continuant [snap:Continuant] entity being a specific kind of entity in the kind or kinds of contexts that it is made for. Examples: the function of a birth canal to enable transport, the function of the heart in the body: to pump blood, to receive de-oxygenated and oxygenated blood, etc., the function of reproduction in the transmission of genetic material, the digestive function of the stomach to nutriate the body, the function of a hammer to drive in nails, the function of a computer program to compute mathematical equations, the function of an automobile to provide transportation, the function of a judge in a court of law</td>
+<td>A function F is a universal (conceptual structure) defined in purely teleological terms with respect to a given goal G which commonly is ascribed by means of has-function relation to entities that are the realizations of the function F, execute such a realization or are intended to do it.</td>
+</tr>
+<tr>
+<th>Your choice</th>
+<td colspan="2"><input type="radio" name="a8" value="Agree">Agree &nbsp&nbsp&nbsp&nbsp&nbsp <input type="radio" name="a8" value="PartiallyAgree"> Partially Agree &nbsp&nbsp&nbsp&nbsp&nbsp <input type="radio" name="a8" value="Disagree">Disagree &nbsp&nbsp&nbsp&nbsp&nbsp <input type="radio" name="a8" value="DontKnow"> I don't know &nbsp&nbsp&nbsp&nbsp&nbsp <input type="radio" name="a8" value="Skip" checked>Skip &nbsp&nbsp&nbsp&nbsp&nbsp </td>
+</tr>
+<tr><td height = "50" colspan ="3"></td></tr>
+
+<tr>
+<th>Alignment 9</th>
+<td bgcolor="#FFCCCC"><strong>Role</strong></td>
+<td bgcolor="#FFCCCC"><strong>Role</strong></td>
+</tr>
+<tr>
+<th>Annotation and example of concept</th>
+<td>Definition: A realizable entity [snap:RealizableEntity] the manifestation of which brings about some result or end that is not essential to a continuant [snap:Continuant] in virtue of the kind of thing that it is but that can be served or participated in by that kind of continuant [snap:Continuant] in some kinds of natural, social or institutional contexts. Examples: the role of a person as a surgeon, the role of a chemical compound in an experiment, the role of a patient relative as defined by a hospital administrative form, the role of a woman as a legal mother in the context of system of laws, the role of a biological grandfather as legal guardian in the context of a system of laws, the role of ingested matter in digestion, the role of a student in a university</td>
+<td></td>
+</tr>
+<tr>
+<th>Your choice</th>
+<td colspan="2"><input type="radio" name="a9" value="Agree">Agree &nbsp&nbsp&nbsp&nbsp&nbsp <input type="radio" name="a9" value="PartiallyAgree"> Partially Agree &nbsp&nbsp&nbsp&nbsp&nbsp <input type="radio" name="a9" value="Disagree">Disagree &nbsp&nbsp&nbsp&nbsp&nbsp <input type="radio" name="a9" value="DontKnow"> I don't know &nbsp&nbsp&nbsp&nbsp&nbsp <input type="radio" name="a9" value="Skip" checked>Skip &nbsp&nbsp&nbsp&nbsp&nbsp </td>
+</tr>
+<tr><td height = "50" colspan ="3"></td></tr>
+
+<tr>
+<th>Alignment 10</th>
+<td bgcolor="#FFCCCC"><strong>Occurrent</strong></td>
+<td bgcolor="#FFCCCC"><strong>Occurrent</strong></td>
+</tr>
+<tr>
+<th>Annotation and example of concept</th>
+<td>Definition: An entity [bfo:Entity] that has temporal parts and that happens, unfolds or develops through time. Sometimes also called perdurants. Examples: the life of an organism, a surgical operation as processual context for a nosocomical infection, the spatiotemporal context occupied by a process of cellular meiosis, the most interesting part of Van Gogh's life, the spatiotemporal region occupied by the development of a cancer tumor.</td>
+<td>Occurrents have temporal parts and thus cannot be present at a time-boundary. Time belongs to them, because they happen in time and the time of the occurrent is built into it. The relation between an occurrent and a chronoid is determined by the projection relation. Occurrents are also called generalized processes in the GFO.</td>
+</tr>
+<tr>
+<th>Your choice</th>
+<td colspan="2"><input type="radio" name="a10" value="Agree">Agree &nbsp&nbsp&nbsp&nbsp&nbsp <input type="radio" name="a10" value="PartiallyAgree"> Partially Agree &nbsp&nbsp&nbsp&nbsp&nbsp <input type="radio" name="a10" value="Disagree">Disagree &nbsp&nbsp&nbsp&nbsp&nbsp <input type="radio" name="a10" value="DontKnow"> I don't know &nbsp&nbsp&nbsp&nbsp&nbsp <input type="radio" name="a10" value="Skip" checked>Skip &nbsp&nbsp&nbsp&nbsp&nbsp </td>
+</tr>
+<tr><td height = "50" colspan ="3"></td></tr>
+
+<tr>
+<th>Alignment 11</th>
+<td bgcolor="#FFCCCC"><strong>Process</strong></td>
+<td bgcolor="#FFCCCC"><strong>Process</strong></td>
+</tr>
+<tr>
+<th>Annotation and example of concept</th>
+<td>Definition: A processual entity [span:ProcessualEntity] that is a maximally connected spatiotemporal whole and has bona fide beginnings and endings corresponding to real discontinuities. Examples: the life of an organism, the process of sleeping, the process of cell-division.</td>
+<td>Processes are a special kind of occurrent. Processes are directly in time, they have characteristics which cannot be captured by a collection of time boundaries.</td>
+</tr>
+<tr>
+<th>Your choice</th>
+<td colspan="2"><input type="radio" name="a11" value="Agree">Agree &nbsp&nbsp&nbsp&nbsp&nbsp <input type="radio" name="a11" value="PartiallyAgree"> Partially Agree &nbsp&nbsp&nbsp&nbsp&nbsp <input type="radio" name="a11" value="Disagree">Disagree &nbsp&nbsp&nbsp&nbsp&nbsp <input type="radio" name="a11" value="DontKnow"> I don't know &nbsp&nbsp&nbsp&nbsp&nbsp <input type="radio" name="a11" value="Skip" checked>Skip &nbsp&nbsp&nbsp&nbsp&nbsp </td>
+</tr>
+<tr><td height = "50" colspan ="3"></td></tr>
+
+<tr>
+<th>Alignment 12</th>
+<td bgcolor="#FFCCCC"><strong>Quality</strong></td>
+<td bgcolor="#FFCCCC"><strong>Property</strong></td>
+</tr>
+<tr>
+<th>Annotation and example of concept</th>
+<td>Definition: A specifically dependent continuant [snap:SpecificallyDependentContinuant] that is exhibited if it inheres in an entity or entities at all (a categorical property). Examples: the color of a tomato, the ambient temperature of air, the circumference of a waist, the shape of a nose, the mass of a piece of gold, the weight of a chimpanzee.</td>
+<td>Properties are universals that refer to things like "the size of a cabinet"</td>
+</tr>
+<tr>
+<th>Your choice</th>
+<td colspan="2"><input type="radio" name="a12" value="Agree">Agree &nbsp&nbsp&nbsp&nbsp&nbsp <input type="radio" name="a12" value="PartiallyAgree"> Partially Agree &nbsp&nbsp&nbsp&nbsp&nbsp <input type="radio" name="a12" value="Disagree">Disagree &nbsp&nbsp&nbsp&nbsp&nbsp <input type="radio" name="a12" value="DontKnow"> I don't know &nbsp&nbsp&nbsp&nbsp&nbsp <input type="radio" name="a12" value="Skip" checked>Skip &nbsp&nbsp&nbsp&nbsp&nbsp </td>
+</tr>
+<tr><td height = "50" colspan ="3"></td></tr>
+
+<tr>
+<th>Alignment 13</th>
+<td bgcolor="#FFCCCC"><strong>SpatialRegion</strong></td>
+<td bgcolor="#FFCCCC"><strong>Spatial_region</strong></td>
+</tr>
+<tr>
+<th>Annotation and example of concept</th>
+<td>An instance of spatial region [snap:SpatialRegion] is a part of space. All parts of space are spatial region [snap:SpatialRegion] entities and only spatial region [snap:SpatialRegion] entities are parts of space. Space is the entire extent of the spatial universe, a designated individual, which is thus itself a spatial region [snap:SpatialRegion].Examples: the sum total of all space in the universe, parts of the sum total of all space in the universe</td>
+<td>Space regions are mereological sums of topoids (spatial intervals) </td>
+</tr>
+<tr>
+<th>Your choice</th>
+<td colspan="2"><input type="radio" name="a13" value="Agree">Agree &nbsp&nbsp&nbsp&nbsp&nbsp <input type="radio" name="a13" value="PartiallyAgree"> Partially Agree &nbsp&nbsp&nbsp&nbsp&nbsp <input type="radio" name="a13" value="Disagree">Disagree &nbsp&nbsp&nbsp&nbsp&nbsp <input type="radio" name="a13" value="DontKnow"> I don't know &nbsp&nbsp&nbsp&nbsp&nbsp <input type="radio" name="a13" value="Skip" checked>Skip &nbsp&nbsp&nbsp&nbsp&nbsp </td>
+</tr>
+<tr><td height = "50" colspan ="3"></td></tr>
+
+<tr>
+<th>Alignment 14</th>
+<td bgcolor="#FFCCCC"><strong>TemporalRegion</strong></td>
+<td bgcolor="#FFCCCC"><strong>Temporal_region</strong></td>
+</tr>
+<tr>
+<th>Annotation and example of concept</th>
+<td>An instance of temporal region [span:TemporalRegion] is a part of time. All parts of time are temporal region [span:TemporalRegion] entities and only temporal region [span:TemporalRegion] entities are parts of time. Time is the entire extent of the temporal universe, a designated individual, which is thus a temporal region itself. Examples: the time it takes to run a marathon, the duration of a surgical procedure, the moment of death.</td>
+<td>Time Regions are defined as the mereological sum of chronoids, i.e. time regions may consist of non-connected intervals of time.</td>
+</tr>
+<tr>
+<th>Your choice</th>
+<td colspan="2"><input type="radio" name="a14" value="Agree">Agree &nbsp&nbsp&nbsp&nbsp&nbsp <input type="radio" name="a14" value="PartiallyAgree"> Partially Agree &nbsp&nbsp&nbsp&nbsp&nbsp <input type="radio" name="a14" value="Disagree">Disagree &nbsp&nbsp&nbsp&nbsp&nbsp <input type="radio" name="a14" value="DontKnow"> I don't know &nbsp&nbsp&nbsp&nbsp&nbsp <input type="radio" name="a14" value="Skip" checked>Skip &nbsp&nbsp&nbsp&nbsp&nbsp </td>
+</tr>
+<tr><td height = "50" colspan ="3"></td></tr>
+
+</table>
+
+<b>Any comments/suggestions for the alignments? </b><br>
+<textarea name = "otherSuggestions" rows="4" cols="146">  </textarea>
+
+<input type="submit" name="submit" class="primary" value="Submit details">
+</p>
+
+</form>
+
+Annotations used in this table are from the BFO Ontology [1], the GFO Ontology [2] and the GFO documentation [3]. <br><br>
+[1]http://www.ifomis.org/bfo/owl <br>
+[2] http://www.onto-med.de/ontologies/gfo.owl <br>
+[3]HERRE, H. 2010. General Formal Ontology (GFO): A foundational ontology for conceptual modelling. In Theory and Applications of Ontology: Computer Applications, R. Poli, M. Healy, and A. Kameas, Eds. Springer, Heidelberg, Chapter 14, 297 - 345. <br>
+<hr>
+
+<h3><a href = "evaluationAlignmentsDOLCEBFO.html">1. Evaluate alignments between DOLCE and BFO </a></h3>
+
+
+<h3><a href= "evaluationAlignmentsGFODOLCE.html">2. Evaluate alignments between GFO and DOLCE</a></h3>
+
+
+		  
+		</div> <!-- .entry-content -->
+
+		<footer class="entry-meta">
+			Posted on <time class="entry-date" datetime="2012-09-01" pubdate>September 01 2012</time>
+			by <span class="author vcard"><a class="url fn n" href="#" title="View all posts by Author" rel="author">Zubeida Casmod Khan</a></span> <br>
+
+ Edited on <time class="entry-date" datetime="2012-10-18" pubdate>October 18 2012</time>
+			by <span class="author vcard"><a class="url fn n" href="#" title="View all posts by Author" rel="author">Zubeida Casmod Khan</a></span>
+
+			
+		</footer>
+
+	</article> <!-- .post.hentry --><!-- .post.hentry -->
+
+</div> <!-- #content -->
+
+<!--<div id="sidebar" role="complementary" class="span4">
+
+	<!-- Non-working search form -->
+	<!--<form role="search" action="#" class="searchform">
+		<label class="assistive-text" for="s">Search for:</label>
+		<input type="search" name="s" id="s" results="10" placeholder="Search..." value="">
+		<input type="submit" value="Search">
+	</form> <!-- .searchform.widget -->
+<!--
+	 <aside class="widget">
+		<h3 class="widget-title">Sidebar heading</h3>
+
+		<ul>
+			<li><a href="#">Li element</a></li>
+			<li><a href="#">Li element</a></li>
+			<li><a href="#">Li element</a></li>
+			<li>Li element</li>
+			<li><a href="#">Li element</a></li>
+		</ul>
+	</aside> <!-- .widget -->
+
+	<!--<aside class="widget">
+		<h3 class="widget-title">Widget</h3>
+
+		<p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life.</p>
+		<p>One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.</p>
+	</aside> <!-- .widget -->
+
+<!--</div> <!-- #sidebar -->
+</div> <!-- #main -->
+
+	<footer id="footer" role="contentinfo">
+		<!-- You're free to remove the credit li nk to Jayj.dk in the footer, but please, please leave it there :) -->
+		
+	</footer> <!-- #footer -->
+
+	<!-- Grab Google CDN's jQuery, with a protocol relative URL; fall back to local if offline -->
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+	<script>window.jQuery || document.write('<script src="js/jquery-1.7.2.min.js"><\/script>')</script>
+
+	<!-- Load custom scripts -->
+	<script src="js/script.js"></script>
+
+
+</body>
+</html>
