@@ -114,7 +114,7 @@
 
 		<header class="entry-header">
 			<h1 class="entry-title">
-				<a href="#" title="Post Heading" rel="bookmark">Metadata: FFO</a>
+				<a href="#" title="Post Heading" rel="bookmark">Metadata: GFO-Basic-RL</a>
 			</h1>
 
 			<a href="#" title="Post Heading"></a>
@@ -152,6 +152,7 @@ background-color:#EAF2D3;
 }
 </style>
 
+
 <?php
 mysql_connect("","","") or die (mysql_error());
 //echo $yolo;
@@ -159,7 +160,7 @@ mysql_select_db("romulus") or die ("no database");
 //echo "Connected to database romulus";
 
 $query = "SELECT `OntologyID`, `OntologyName`, `OntologyAcronym`, `OntologyDescription`,
- `CreationDate`, `LatestModifiedDate`, `Version`, `URI` FROM `Ontology` WHERE `OntologyID` = 64";
+ `CreationDate`, `LatestModifiedDate`, `Version`, `URI` FROM `Ontology` WHERE `OntologyID` = 21";
 $result = mysql_query($query) or die ("Query1 failed");
 //echo "ok";
 
@@ -254,7 +255,7 @@ echo "<tr>
 	<th colspan = 2 >Language</th>
       </tr>";
 
-$query2 = "SELECT `LanguageName`, `LanguageAcronym`, `LanguageDescription` FROM `Language` WHERE `LanguageName` = (SELECT `LanguageName` from `Ontology` where `OntologyID` = 64)";
+$query2 = "SELECT `LanguageName`, `LanguageAcronym`, `LanguageDescription` FROM `Language` WHERE `LanguageName` = (SELECT `LanguageName` from `Ontology` where `OntologyID` = 21)";
 $result2 = mysql_query($query2) or die ("Query2 failed");
 
 $num = (mysql_num_rows ($result2));
@@ -298,7 +299,7 @@ echo "<tr>
       </tr>";
 
 $query3 = "SELECT `DLExpressivity`, `NumberOfClasses`, `NumberOfIndividuals`, `NumberOfObjectProperties`,`NumberOfDataProperties`, `NumberOfAxioms`
- FROM `Metrics` WHERE `MetricsID` = (SELECT `MetricsID` from `Ontology` where `OntologyID` = 64)";
+ FROM `Metrics` WHERE `MetricsID` = (SELECT `MetricsID` from `Ontology` where `OntologyID` = 21)";
 $result3 = mysql_query($query3) or die ("Query3 failed");
 
 while($row3 = mysql_fetch_array($result3)){
@@ -361,7 +362,7 @@ echo "<tr>
       </tr>";
 
 $query55 = "SELECT `LicenceName`, `LicenceDescription`, `LicenceHomePage` from `Licence` where `LicenceName`
- = (SELECT `LicenceName` from `Ontology` where `OntologyID` = 64)";
+ = (SELECT `LicenceName` from `Ontology` where `OntologyID` = 21)";
 $result55 = mysql_query($query55) or die ("Query55 failed");
 
 while($row55 = mysql_fetch_array($result55)){
@@ -404,7 +405,7 @@ echo "<tr>
 
 
 $query4 = "SELECT `PersonName`, `PersonSurname`, `PersonEmail` from `Person` where
-`PersonEmail` IN (SELECT `PersonEmail` from `OntologyPerson` where `OntologyID` = 64)";
+`PersonEmail` IN (SELECT `PersonEmail` from `OntologyPerson` where `OntologyID` = 21)";
 $result4 = mysql_query($query4) or die ("Query4 failed ".mysql_error());
 
 while($row4 = mysql_fetch_array($result4)){
@@ -466,7 +467,7 @@ echo "<tr>
 
 
 $query6 = "SELECT DISTINCT `OrganisationName` from `OrganisationPerson` where
-`PersonEmail` IN (SELECT `PersonEmail` FROM `OntologyPerson` where `OntologyID` = 64)";
+`PersonEmail` IN (SELECT `PersonEmail` FROM `OntologyPerson` where `OntologyID` = 21)";
 $result6 = mysql_query($query6) or die ("Query6 failed ".mysql_error());
 
 while($row6 = mysql_fetch_array($result6)){
@@ -516,9 +517,8 @@ echo
 }
 
 $count = 0;
-
 $query9 = "SELECT `ProjectID`, `ProjectName`, `ProjectAcronym`, `ProjectHomePage`, `ProjectDescription`, `ProjectDomain`,
-`ProjectUsageApplication` from `Project` where `ProjectID` IN (SELECT `ProjectID` from `OntologyProject` where `OntologyID` = 64)";
+`ProjectUsageApplication` from `Project` where `ProjectID` IN (SELECT `ProjectID` from `OntologyProject` where `OntologyID` = 21)";
 
 $result9 = mysql_query($query9) or die ("Query9 failed ".mysql_error());
 
@@ -544,8 +544,8 @@ echo
 	<th colspan =2>Project details</th>
 
 </tr>";
-
 }
+
 
 echo 
 "<tr>
@@ -593,7 +593,183 @@ $count++;
 }
 }
 
+echo
+"<tr>
 
+	<th colspan =2>Module details</th>
+
+</tr>";
+
+$query8 = "SELECT `ModuleType`, `ModuleSubtype`, `ModuleTypeDescription`, `ModuleCoverage`, `ModuleCorrectness`,
+`ModuleCompleteness`,`ModuleClassSize`, `ModulePropertySize`, `MethodType` from `Module` where `ModuleID` = 21";
+
+$result8 = mysql_query($query8) or die ("Query8 failed ".mysql_error());
+
+
+while($row8 = mysql_fetch_array($result8)){
+
+$modtype = $row8['ModuleType'];
+$modsubtype = $row8['ModuleSubtype'];
+$modtypedesc = $row8['ModuleTypeDescription'];
+$modcov = $row8['ModuleCoverage'];
+$modcorr = $row8['ModuleCorrectness'];
+$modcomp = $row8['ModuleCompleteness'];
+$modclass = $row8['ModuleClassSize'];
+$modprop = $row8['ModulePropertySize'];
+$modmeth = $row8['MethodType'];
+
+echo 
+"<tr>
+
+	<td>Module Type</td>
+	<td>".$modtype."</td>
+</tr>";
+
+echo 
+"<tr>
+
+	<td>Module Subtype</td>
+	<td>".$modsubtype."</td>
+</tr>";
+
+echo 
+"<tr>
+
+	<td>Module Type Description</td>
+	<td>".$modtypedesc."</td>
+</tr>";
+
+echo 
+"<tr>
+
+	<td>Module Coverage</td>
+	<td>".$modcov."%</td>
+</tr>";
+
+echo 
+"<tr>
+
+	<td>Module Correctness <br><font size= 1.5>(ModuleCorrectness states whether a module is logically correct, i.e., if all the axioms from only the original ontology are found in the modules and nothing new has been added to the module.)</font></td>
+	<td>".$modcorr."</td>
+</tr>";
+
+echo 
+"<tr>
+
+	<td>Module Completeness <br><font size= 1.5>(ModuleCompleteness states whether for every axiom in the original ontology, the meaning of the axiom is persevered in the module.)</td>
+	<td>".$modcomp."</td>
+</tr>";
+
+echo 
+"<tr>
+
+	<td>Module Class Size <br><font size= 1.5>(ModularisedClassSize represents the amount of classes of the original ontology that remains in the module.)</td>
+	<td>".$modclass."%</td>
+</tr>";
+
+echo 
+"<tr>
+
+	<td>Module Property Size <br><font size= 1.5>(ModularisedPropertySize represents the amount of properties of the original ontology that remains in the module.)</td>
+	<td>".$modprop."%</td>
+</tr>";
+
+echo 
+"<tr>
+
+	<td>Module Method</td>
+	<td>".$modmeth."</td>
+</tr>";
+
+}
+
+
+$query9 = "SELECT `OntologyName` from `Ontology` where `OntologyID` =
+(SELECT `OriginalOntologyID`  from `Module` where `ModuleID` = 21)";
+
+$result9 = mysql_query($query9) or die ("Query9 failed ".mysql_error());
+
+
+while($row9 = mysql_fetch_array($result9)){
+$origonto = $row9['OntologyName'];
+
+echo 
+"<tr>
+
+	<td>Original ontology</td>
+	<td>".$origonto."</td>
+</tr>";
+
+}
+
+$count3 = 0;
+
+$query10 = "SELECT DISTINCT `ToolName`, `ToolVersion`, `ToolHomePage`, `ToolMethod`, `ToolAlgorithm` from `Tool`
+where `ToolName` = (SELECT `ToolName` from `Module` where `ModuleID` = 21)";
+$result10 = mysql_query($query10) or die ("Query10 failed ".mysql_error());
+
+while($row10 = mysql_fetch_array($result10)){
+$tooln = $row10['ToolName'];
+$toolver = $row10['ToolVersion'];
+$toolhome = $row10['ToolHomePage'];
+$toolmeth = $row10['ToolMethod'];
+$toolalgo = $row10['ToolAlgorithm'];
+
+if($toolver > 0.0){
+if($count3 == 0){
+
+echo 
+"<tr>
+
+	<th colspan =2>Modularity tool/s</td>
+</tr>";
+
+}
+echo 
+"<tr>
+
+	<td>Tool Name</td>
+	<td>".$tooln."</td>
+</tr>";
+
+echo 
+"<tr>
+
+	<td>Tool Version</td>
+	<td>".$toolver."</td>
+</tr>";
+
+echo 
+"<tr>
+
+	<td>Tool Home Page</td>
+	<td>".$toolhome."</td>
+</tr>";
+
+echo 
+"<tr>
+
+	<td>Tool Method</td>
+	<td>".$toolmeth."</td>
+</tr>";
+
+echo 
+"<tr>
+
+	<td>Tool Algorithm</td>
+	<td>".$toolalgo."</td>
+</tr>";
+
+echo 
+"<tr>
+
+	<td colspan =2></td>
+
+</tr>";
+
+$count3++;
+}
+}
 
 echo "</table>";
 

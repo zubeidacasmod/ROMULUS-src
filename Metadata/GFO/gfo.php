@@ -13,7 +13,7 @@
 
 	<!-- Put your title here! -->
 	<title></title>
-
+f
 	<meta name="description" content="">
 
 	 <!-- Mobile viewport optimized: h5bp.com/viewport -->
@@ -114,7 +114,7 @@
 
 		<header class="entry-header">
 			<h1 class="entry-title">
-				<a href="#" title="Post Heading" rel="bookmark">Metadata: FFO</a>
+				<a href="#" title="Post Heading" rel="bookmark">Metadata: GFO</a>
 			</h1>
 
 			<a href="#" title="Post Heading"></a>
@@ -152,6 +152,7 @@ background-color:#EAF2D3;
 }
 </style>
 
+
 <?php
 mysql_connect("","","") or die (mysql_error());
 //echo $yolo;
@@ -159,7 +160,7 @@ mysql_select_db("romulus") or die ("no database");
 //echo "Connected to database romulus";
 
 $query = "SELECT `OntologyID`, `OntologyName`, `OntologyAcronym`, `OntologyDescription`,
- `CreationDate`, `LatestModifiedDate`, `Version`, `URI` FROM `Ontology` WHERE `OntologyID` = 64";
+ `CreationDate`, `LatestModifiedDate`, `Version`, `URI` FROM `Ontology` WHERE `OntologyID` = 15";
 $result = mysql_query($query) or die ("Query1 failed");
 //echo "ok";
 
@@ -254,7 +255,7 @@ echo "<tr>
 	<th colspan = 2 >Language</th>
       </tr>";
 
-$query2 = "SELECT `LanguageName`, `LanguageAcronym`, `LanguageDescription` FROM `Language` WHERE `LanguageName` = (SELECT `LanguageName` from `Ontology` where `OntologyID` = 64)";
+$query2 = "SELECT `LanguageName`, `LanguageAcronym`, `LanguageDescription` FROM `Language` WHERE `LanguageName` = (SELECT `LanguageName` from `Ontology` where `OntologyID` = 15)";
 $result2 = mysql_query($query2) or die ("Query2 failed");
 
 $num = (mysql_num_rows ($result2));
@@ -298,7 +299,7 @@ echo "<tr>
       </tr>";
 
 $query3 = "SELECT `DLExpressivity`, `NumberOfClasses`, `NumberOfIndividuals`, `NumberOfObjectProperties`,`NumberOfDataProperties`, `NumberOfAxioms`
- FROM `Metrics` WHERE `MetricsID` = (SELECT `MetricsID` from `Ontology` where `OntologyID` = 64)";
+ FROM `Metrics` WHERE `MetricsID` = (SELECT `MetricsID` from `Ontology` where `OntologyID` = 15)";
 $result3 = mysql_query($query3) or die ("Query3 failed");
 
 while($row3 = mysql_fetch_array($result3)){
@@ -361,7 +362,7 @@ echo "<tr>
       </tr>";
 
 $query55 = "SELECT `LicenceName`, `LicenceDescription`, `LicenceHomePage` from `Licence` where `LicenceName`
- = (SELECT `LicenceName` from `Ontology` where `OntologyID` = 64)";
+ = (SELECT `LicenceName` from `Ontology` where `OntologyID` = 15)";
 $result55 = mysql_query($query55) or die ("Query55 failed");
 
 while($row55 = mysql_fetch_array($result55)){
@@ -404,7 +405,7 @@ echo "<tr>
 
 
 $query4 = "SELECT `PersonName`, `PersonSurname`, `PersonEmail` from `Person` where
-`PersonEmail` IN (SELECT `PersonEmail` from `OntologyPerson` where `OntologyID` = 64)";
+`PersonEmail` IN (SELECT `PersonEmail` from `OntologyPerson` where `OntologyID` = 15)";
 $result4 = mysql_query($query4) or die ("Query4 failed ".mysql_error());
 
 while($row4 = mysql_fetch_array($result4)){
@@ -466,7 +467,7 @@ echo "<tr>
 
 
 $query6 = "SELECT DISTINCT `OrganisationName` from `OrganisationPerson` where
-`PersonEmail` IN (SELECT `PersonEmail` FROM `OntologyPerson` where `OntologyID` = 64)";
+`PersonEmail` IN (SELECT `PersonEmail` FROM `OntologyPerson` where `OntologyID` = 15)";
 $result6 = mysql_query($query6) or die ("Query6 failed ".mysql_error());
 
 while($row6 = mysql_fetch_array($result6)){
@@ -518,7 +519,7 @@ echo
 $count = 0;
 
 $query9 = "SELECT `ProjectID`, `ProjectName`, `ProjectAcronym`, `ProjectHomePage`, `ProjectDescription`, `ProjectDomain`,
-`ProjectUsageApplication` from `Project` where `ProjectID` IN (SELECT `ProjectID` from `OntologyProject` where `OntologyID` = 64)";
+`ProjectUsageApplication` from `Project` where `ProjectID` IN (SELECT `ProjectID` from `OntologyProject` where `OntologyID` = 15)";
 
 $result9 = mysql_query($query9) or die ("Query9 failed ".mysql_error());
 
@@ -546,7 +547,6 @@ echo
 </tr>";
 
 }
-
 echo 
 "<tr>
 
@@ -594,13 +594,15 @@ $count++;
 }
 
 
-
 echo "</table>";
 
 
 mysql_close("","","");
 
 ?>
+
+	
+			
 
 
 		 
