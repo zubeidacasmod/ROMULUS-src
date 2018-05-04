@@ -129,8 +129,8 @@
 <h4>Search results</h4>
 
 <?php
-mysql_connect("127.3.143.1:3306","admint2HhvWi","2iAB21BlvIii") or die (mysql_error());
-mysql_select_db("romulus") or die ("no database");
+mysql_connect("","","") or die (mysql_error());
+mysql_select_db("") or die ("no database");
 
 if ( empty($_POST['ontologynamesearch']) && empty($_POST['ontologyacronymsearch']) && empty($_POST['languagenamesearch']) && empty($_POST['languageacronymsearch'])
 && empty($_POST['organisationnamesearch']) && empty($_POST['ontologyacronymsearch']) && empty($_POST['personnamesearch'])
