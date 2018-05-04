@@ -95,6 +95,6 @@ $otherarray = explode ("-", $value);
 }
 */
 
-mysql_close("127.3.143.1:3306","admint2HhvWi","2iAB21BlvIii");
+mysql_close("","","");
 
 ?>
