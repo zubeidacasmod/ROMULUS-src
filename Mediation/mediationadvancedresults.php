@@ -132,7 +132,7 @@
 
 
 
-mysql_connect("127.3.143.1:3306","admint2HhvWi","2iAB21BlvIii") or die (mysql_error());
+mysql_connect("","","") or die (mysql_error());
 
 mysql_select_db("romulus") or die ("no database");
 
@@ -633,7 +633,7 @@ echo "</table>";
 }//end else if (not empty fields)
 
 
-mysql_close("127.3.143.1:3306","admint2HhvWi","2iAB21BlvIii");
+mysql_close("","","");
 
 ?>
 		 
