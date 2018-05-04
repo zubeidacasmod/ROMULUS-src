@@ -130,7 +130,7 @@
 
 <?php
 mysql_connect("","","") or die (mysql_error());
-mysql_select_db("") or die ("no database");
+mysql_select_db("romulus") or die ("no database");
 
 if ( empty($_POST['ontologynamesearch']) && empty($_POST['ontologyacronymsearch']) && empty($_POST['languagenamesearch']) && empty($_POST['languageacronymsearch'])
 && empty($_POST['organisationnamesearch']) && empty($_POST['ontologyacronymsearch']) && empty($_POST['personnamesearch'])

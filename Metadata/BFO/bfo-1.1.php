@@ -157,7 +157,7 @@ background-color:#EAF2D3;
 <?php
 mysql_connect("","","") or die (mysql_error());
 //echo $yolo;
-mysql_select_db("") or die ("no database");
+mysql_select_db("romulus") or die ("no database");
 //echo "Connected to database romulus";
 
 $query = "SELECT `OntologyID`, `OntologyName`, `OntologyAcronym`, `OntologyDescription`,
@@ -600,7 +600,7 @@ $count++;
 echo "</table>";
 
 
-mysql_close("127.3.143.1:3306","admint2HhvWi","2iAB21BlvIii");
+mysql_close("","","");
 
 ?>
 			
