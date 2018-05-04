@@ -131,7 +131,7 @@
 
 
 <?php
-mysql_connect("127.3.143.1:3306","admint2HhvWi","2iAB21BlvIii") or die (mysql_error());
+mysql_connect("","","") or die (mysql_error());
 echo $yolo;
 mysql_select_db("romulus") or die ("no database");
 $medsetid =16;
@@ -287,7 +287,7 @@ $count++;
 
 echo "</table>";
 
-mysql_close("127.3.143.1:3306","admint2HhvWi","2iAB21BlvIii");
+mysql_close("","","");
 
 ?>
 		 
